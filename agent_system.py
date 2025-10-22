@@ -5,7 +5,7 @@ from collections import Counter
 import argparse
 import logging
 import json
-import tqdm
+from tqdm import tqdm
 import ast
 
 def generate_using_metaprompt(model, prompt, data):
@@ -44,6 +44,7 @@ def error_type_ner(label, predict):
     
 
 def evaluate_ner(labels, model_predicts):
+    # labels: [[[a1,e1],[a2,e2]],[[a3,e3]]]
     tp = 0
     fp = 0
     fn = 0
@@ -53,7 +54,7 @@ def evaluate_ner(labels, model_predicts):
         tp += tp_num
         fp += fp_num
         fn += fn_num
-        print(tp, fp, fn)
+    print(tp, fp, fn)
     precision = tp / float(tp + fp)
     recall = tp / float(tp + fn)
     f1_score = 2 * tp / float( 2 * tp + fp + fn)
@@ -141,26 +142,33 @@ def run_baseline_test(dataset_name, prompt, args):
 
     if args.custom_data != '':
         loaded_data = []
+        limit = 1600
+        ct = 0
         with open(args.custom_data) as f:
             for i, line in enumerate(f):
+                ct += 1
                 line_json = json.loads(line)
                 loaded_data.append(line_json)
+                if ct == limit:
+                    break
 
     else:
         loaded_data = datasets.load_dataset(name=args.dataset_name, split="test")
 
     preds = []
     labels = []
-    for j in loaded_data:
+    for j in tqdm(loaded_data):
         sentence = j["text"]
         label = j["entity_labels"]
         labels.append(label)
+        print("label: ", label)
 
         pred = model.predict_single(sentence, prompt)
         pred = ast.literal_eval(pred)
         print(pred)
         preds.append(pred)
-        precision_batch, recall_batch, f1_score_batch = evaluate_ner(labels, preds)
+    
+    precision_batch, recall_batch, f1_score_batch = evaluate_ner(labels, preds)
     
     
     
