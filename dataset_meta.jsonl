@@ -1,0 +1,10 @@
+{"dataset_name": "ap/axb", "input": ["sentence1", "sentence2"], "output": "label", "output_maps": {"entailment": "0", "not_entailment": "1"}, "task_category": "nli", "split": ["test"]}
+{"dataset_name": "ap/axg", "input": ["premise", "hypothesis"], "output": "label", "output_maps": {"entailment": "0", "not_entailment": "1"}, "task_category": "nli", "split": ["test"]}
+{"dataset_name": "aps/super_glue/boolq", "input": ["question", "passage"], "output": "label", "output_maps": {"True": "1", "False": "0"}, "task_category": "nli", "split": ["train", "validation"]}
+{"dataset_name": "aps/super_glue/cb", "input": ["premise", "hypothesis"], "output": "label", "output_maps": {"entailment": "0", "contradiction": "1", "neutral": "2"}, "task_category": "nli", "split": ["train", "validation"]}
+{"dataset_name": "aps/super_glue/copa", "input": ["question", "premise", "choice1", "choice2"], "output": "label", "output_maps": {"choice1": "0", "choice2": "1"}, "task_category": "nli", "split": ["train", "validation"]}
+{"dataset_name": "aps/super_glue/rte", "input": ["premise", "hypothesis"], "output": "label", "output_maps": {"entailment": "0", "not_entailment": "1"}, "task_category": "nli", "split": ["train", "validation"]}
+{"dataset_name": "aps/super_glue/wic", "input": ["word", "sentence1", "sentence2"], "output": "label", "output_maps": {"no": "0", "yes": "1"}, "task_category": "nli", "split": ["train", "validation"]}
+{"dataset_name": "aps/super_glue/wsc", "input": ["text", "span1_text", "span2_text"], "output": "label", "output_maps": {"no": "0", "yes": "1"}, "task_category": "nli", "split": ["train", "validation"]}
+{"dataset_name": "aps/super_glue/multirc", "input": ["paragraph", "question", "answer"], "output": "label", "output_maps": {"False": "0", "True": "1"}, "task_category": "nli", "split": ["train", "validation"]}
+{"dataset_name": "aps/super_glue/record", "input": ["passage", "query", "entities"], "output": "answers", "output_maps": {"answer": []}, "task_category": "nli", "split": ["train", "validation"]}

@@ -1,0 +1,4 @@
+Please identify whether <sentence2> supports or refutes <sentence1>.. Answer with "SUPPORTS" or "REFUTES". 
+Please answer with this JSON format: {{"answer": "your_answer"}} 
+<sentence1>: {text0}
+<sentence2>: {text1}

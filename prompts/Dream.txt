@@ -1,0 +1,6 @@
+Please answer the given <question>, by choosing between the given <answer_keys>. Please only answer with ONE given choice, with the sentence exactly presented by it. 
+
+Format your answer in JSON as such: {{"answer": "your_answer"}} 
+
+<question>: {text0}
+<answer_keys>: {text1}

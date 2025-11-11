@@ -1,0 +1,6 @@
+Please answer the given <question>, by choosing between the given <answer_keys>. Please only answer with the key. e.g. a capital letter.
+
+Format your answer in JSON as such: {{"answer": "your_answer"}} 
+
+<question>: {text0}
+<answer_keys>: {text1}

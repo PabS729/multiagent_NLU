@@ -1,0 +1,7 @@
+Does the target <word> carry the same sense in <sentence1> and <sentence2>?
+
+Answer with "yes" or "no" only. Format your answer in JSON as such: {{"answer": "your_answer"}}.
+
+<word>: {word}
+<sentence1>: {sentence1}
+<sentence2>: {sentence2}

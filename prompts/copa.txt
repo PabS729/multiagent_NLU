@@ -1,0 +1,7 @@
+Please check whether <choice1> or <choice2> accurately serves the purpose for the word in <question> given the <premise>, by choosing between  You should answer with either "choice1" or "choice2".
+
+Please format your answer in JSON like so: {{"answer": "your_answer"}} 
+<question>: {question}
+<premise>: {premise}
+<choice1>: {choice1} 
+<choice2>: {choice2}

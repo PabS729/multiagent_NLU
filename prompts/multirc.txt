@@ -1,0 +1,6 @@
+Please read the <paragraph> and <question> carefully, and consider whether the given <answer> is True or False.
+Please only answer with "True" or "False", and format your answer in JSON as follows: {{"answer": "your_answer"}}.
+
+<paragraph>: {paragraph}
+<question>: {question}
+<answer>: {answer}

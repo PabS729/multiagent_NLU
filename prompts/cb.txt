@@ -1,0 +1,4 @@
+Please identify whether <sentence2> entails, contradicts, or expresses neutrality towards <sentence1>.. Answer with "entailment", "contradiction", or "neutral". 
+Please answer with this JSON format: {{"answer": "your_answer"}} 
+<sentence1>: {premise}
+<sentence2>: {hypothesis}

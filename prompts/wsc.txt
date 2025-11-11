@@ -1,0 +1,7 @@
+Read the given <text> carefully and check whether the pronoun in <span2_text> refers to <span1_text>. Both are included in the given <text>.
+
+Answer with "yes" or "no" only. Format your answer in JSON as such: {{"answer": "your_answer"}}.
+
+<text>: {text}
+<span1_text>: {span1_text}
+<span2_text>: {span2_text}

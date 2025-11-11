@@ -1,0 +1,100 @@
+{"input": ["effect", "The man turned on the faucet.", "The toilet filled with water.", "Water flowed from the spout."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "The girl found a bug in her cereal.", "She poured milk in the bowl.", "She lost her appetite."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "The woman retired.", "She received her pension.", "She paid off her mortgage."], "output": "{\"answer\": \"choice1\"}"}
+{"input": ["effect", "I wanted to conserve energy.", "I swept the floor in the unoccupied room.", "I shut off the light in the unoccupied room."], "output": "{\"answer\": \"choice2\"}"}
+{"input": ["cause", "The hamburger meat browned.", "The cook froze it.", "The cook grilled it."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "I doubted the salesman's pitch.", "I turned his offer down.", "He persuaded me to buy the product."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "I decided to stay home for the night.", "The forecast called for storms.", "My friends urged me to go out."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["cause", "My eyes became red and puffy.", "I was sobbing.", "I was laughing."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "The flame on the candle went out.", "I blew on the wick.", "I put a match to the wick."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["effect", "The man drank heavily at the party.", "He had a headache the next day.", "He had a runny nose the next day."], "output": "{\"answer\": \"choice1\"}"}
+{"input": ["cause", "The bowling ball knocked over the bowling pins.", "The man rolled the bowling ball down the alley.", "The man dropped the bowling ball on his foot."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "The community learned of the man's death.", "His family buried him in the cemetery.", "His obituary appeared in the newspaper."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["effect", "My computer crashed.", "I installed new speakers.", "I lost all my data."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["cause", "The woman resigned from her job.", "She aspired to hold an executive position in the firm.", "She believed her superiors were acting unethically."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["cause", "The player caught the ball.", "Her teammate threw it to her.", "Her opponent tried to intercept it."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "The judge pounded the gavel.", "The courtroom broke into uproar.", "The jury announced its verdict."], "output": "{\"answer\": \"choice1\"}"}
+{"input": ["cause", "The woman banished the children from her property.", "The children hit a ball into her yard.", "The children trampled through her garden."], "output": "{\"answer\": \"choice2\"}"}
+{"input": ["cause", "The kidnappers released the hostage.", "They accepted ransom money.", "They escaped from jail."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "The cook's eyes watered.", "He ran out of onions.", "He cut an onion."], "output": "{\"answer\": \"choice2\"}"}
+{"input": ["cause", "The woman ran her finger under cold water.", "She burned her finger on the toaster.", "She put a diamond ring on her finger."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "The student misspelled the word.", "The teacher corrected her.", "The teacher dismissed her."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "I regained composure from my fit of anger.", "My heart pounded.", "I took deep breaths."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "I put my hands under the running faucet.", "The soap rinsed off my hands.", "The water splashed in my face."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["cause", "The man dressed in his best suit.", "He scheduled a meeting with an important client.", "His wife bought him a new tie."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["effect", "The man confessed his love for the woman.", "The woman rejected him.", "The woman envied him."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "The driver got a flat tire.", "He went over the speed limit.", "He ran over a nail."], "output": "{\"answer\": \"choice2\"}"}
+{"input": ["cause", "My view of the movie screen was blocked.", "The couple behind me was whispering.", "A tall person was sitting in front of me."], "output": "{\"answer\": \"choice2\"}"}
+{"input": ["cause", "The driver turned on the car's headlights.", "He heard thunder.", "The sun went down."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "The girl refused to eat her vegetables.", "Her father told her to drink her milk.", "Her father took away her dessert."], "output": "{\"answer\": \"choice2\"}"}
+{"input": ["cause", "The woman covered her mouth with her hand.", "She exhaled.", "She sneezed."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "The secretary put the caller on hold.", "The caller's phone lost reception.", "The caller waited on the line."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["cause", "The woman walked with crutches.", "She shaved her legs.", "She broke her leg."], "output": "{\"answer\": \"choice2\"}"}
+{"input": ["cause", "I coughed.", "I inhaled smoke.", "I lowered my voice."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "The clock chimed.", "It was the top of the hour.", "The hour seemed to drag on."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["effect", "The chef hit the egg on the side of the bowl.", "The egg cracked.", "The egg rotted."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "The police searched the offender's car.", "They were trying to elicit a confession.", "They were looking for illegal drugs."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["cause", "The couple travelled south for the winter.", "They were retired.", "They were separated."], "output": "{\"answer\": \"choice1\"}"}
+{"input": ["cause", "The man felt obligated to attend the event.", "He turned down his friend's invitation to go.", "He promised his friend that he would go."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "The bride got cold feet before the wedding.", "The wedding guests brought gifts.", "She called the wedding off."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "The man grew old.", "His hair turned gray.", "He sold his belongings."], "output": "{\"answer\": \"choice1\"}"}
+{"input": ["effect", "The friends decided to share the hamburger.", "They cut the hamburger in half.", "They ordered fries with the hamburger."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["effect", "I twisted the cap off the soda bottle.", "The soda fizzed.", "The soda leaked out."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "The pair of students came under scrutiny by the teacher.", "The students both received excellent grades.", "Their responses on the assignment were identical."], "output": "{\"answer\": \"choice2\"}"}
+{"input": ["effect", "The student was in a rush to get to school on time.", "He left his assignment at home.", "He brought his lunch to school."], "output": "{\"answer\": \"choice1\"}"}
+{"input": ["cause", "The journalist wrote a biography about the humanitarian's life.", "The humanitarian was difficult for the journalist to interview.", "The journalist was intrigued by the humanitarian's work."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "The man defied the authorities of the church.", "He donated money to the church.", "He was excommunicated from the church."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "The woman's hair fell in her face.", "She pulled her hair back with a clip.", "She lathered shampoo into her hair."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "The ring on my finger got stuck.", "My finger swelled.", "I chipped my fingernail."], "output": "{\"answer\": \"choice1\"}"}
+{"input": ["effect", "I pulled the rubber band.", "It flung across the room.", "It stretched."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "I pressed my hand into the wet cement.", "My handprint dried in the cement.", "Cracks emerged in the cement."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "My skin broke out into a rash.", "I brushed against poison ivy in my yard.", "I eradicated the poison ivy from my yard."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["effect", "My subscription to the magazine expired.", "I discarded the new issue.", "I stopped receiving new issues."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "The detective revealed an anomaly in the case.", "He finalized his theory.", "He scrapped his theory."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["cause", "The boy threw a temper tantrum.", "His brother took his toys from him.", "He shared his toys with his brother."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "The child learned how to read.", "He began attending school.", "He skipped a grade in school."], "output": "{\"answer\": \"choice1\"}"}
+{"input": ["cause", "The boy skipped dinner.", "His mother cooked his favorite meal.", "He ate a big lunch."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["cause", "The woman lavished her friend with flattery.", "She wanted to ask her friend for a favor.", "She was irritated with her friend's whining."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "The key was missing from my pants pocket.", "The pocket had a hole.", "The pants were new."], "output": "{\"answer\": \"choice1\"}"}
+{"input": ["cause", "The man fainted.", "He took a nap.", "He ran a marathon."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "The man lost the competition.", "The competition was sabotaged.", "He intimidated his competitors."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "The mother called an ambulance.", "Her son lost his cat.", "Her son fell out of his bed."], "output": "{\"answer\": \"choice2\"}"}
+{"input": ["cause", "The driver slammed on his brakes.", "A deer appeared on the road.", "The car radio shut off."], "output": "{\"answer\": \"choice1\"}"}
+{"input": ["cause", "The lock opened.", "I turned the key in the lock.", "I made a duplicate of the key."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "I put rubber gloves on.", "I was preparing to wash my hands.", "I was preparing to clean the bathroom."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "The animal species became endangered.", "Their habitat was destroyed.", "Their predators went extinct."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "The man perceived that the woman looked different.", "The woman got her hair cut.", "The woman wore a bracelet."], "output": "{\"answer\": \"choice1\"}"}
+{"input": ["effect", "The student forgot to do her assignment.", "She made up an excuse to tell the teacher.", "The teacher promoted her to the next grade."], "output": "{\"answer\": \"choice1\"}"}
+{"input": ["cause", "The dog barked.", "The cat lounged on the couch.", "A knock sounded at the door."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "Plans were announced to replace a local park with a shopping mall.", "Environmentalists started a petition.", "Environmentalists produced a documentary."], "output": "{\"answer\": \"choice2\"}"}
+{"input": ["effect", "The couple was happy to see each other.", "They kissed.", "They rested."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "The woman asked the man to leave.", "He insulted her.", "He thanked her."], "output": "{\"answer\": \"choice1\"}"}
+{"input": ["effect", "The tree branch landed in the river.", "The branch moved downstream.", "The river's current became stronger."], "output": "{\"answer\": \"choice1\"}"}
+{"input": ["effect", "The teacher assigned homework to the students.", "The students passed notes.", "The students groaned."], "output": "{\"answer\": \"choice2\"}"}
+{"input": ["effect", "The seasons changed from summer to autumn.", "People evacuated their homes.", "Leaves fell from the trees."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "The politician was convicted of fraud.", "He campaigned for re-election.", "He was removed from office."], "output": "{\"answer\": \"choice2\"}"}
+{"input": ["effect", "I pushed the wagon.", "The objects in the wagon fell out.", "The wagon wheels spun forward."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "The lobbyist persuaded the legislature to support the bill.", "The president vetoed the bill.", "The legislature passed the bill."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "My closet was messy.", "I organized it.", "I decorated it."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["effect", "I stayed up late.", "I had vivid dreams that night.", "I was tired in the morning."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["cause", "The man's pocket jingled as he walked.", "His pocket was filled with coins.", "He sewed the hole in his pocket."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "Everyone in the class turned to stare at the student.", "The student's phone rang.", "The student took notes."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "The horse bucked.", "A fly bit the horse.", "The rider stroked the horse."], "output": "{\"answer\": \"choice1\"}"}
+{"input": ["effect", "The jewelry thieves were caught.", "The stolen jewelry was returned to its owners.", "The cost of the stolen jewelry was calculated."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["effect", "Political violence broke out in the nation.", "Many citizens relocated to the capitol.", "Many citizens took refuge in other territories."], "output": "{\"answer\": \"choice2\"}"}
+{"input": ["cause", "The woman was arrested.", "She checked into rehab.", "She committed assault."], "output": "{\"answer\": \"choice2\"}"}
+{"input": ["effect", "The woman read the newspaper.", "She discovered the outcome of the election.", "She casted a vote in the election."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["effect", "The sick child coughed on his friend.", "His friend got sick.", "His friend sneezed."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "The couple got engaged.", "They planned a wedding.", "They took some time apart."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["cause", "The woman contacted the real estate agent.", "The woman planned to buy a condo.", "The woman needed to clean her house."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["effect", "The man won the lottery.", "He became rich.", "He owed money."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["effect", "I lit the candle.", "Wax dripped off the candle.", "The wax on the candle hardened."], "output": "{\"answer\": \"choice1\"}"}
+{"input": ["effect", "I spent the day at the pool.", "I sprained my ankle.", "My face got sunburned."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["cause", "The man received a parking ticket.", "He parallel parked on the street.", "The parking meter expired."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "The woman became famous.", "Photographers followed her.", "Her family avoided her."], "output": "{\"answer\": \"choice1\"}"}
+{"input": ["effect", "The girl wanted to wear earrings.", "She got her ears pierced.", "She got a tattoo."], "output": "{\"answer\": \"choice1\"}"}
+{"input": ["cause", "My ears were ringing.", "I went to a museum.", "I went to a concert."], "output": "{\"answer\": \"choice2\"}"}
+{"input": ["cause", "I tidied up my house.", "I was swamped with work.", "I was expecting company."], "output": "{\"answer\": \"choice2\"}"}
+{"input": ["effect", "The airline mishandled my luggage.", "They offered me compensation.", "They cancelled my flight."], "output": "```json\n{\"answer\": \"choice1\"}\n```"}
+{"input": ["effect", "The computer was expensive to fix.", "I got it repaired.", "I bought a new one."], "output": "```json\n{\"answer\": \"choice2\"}\n```"}
+{"input": ["effect", "The woman was in a bad mood.", "She engaged in small talk with her friend.", "She told her friend to leave her alone."], "output": "{\"answer\": \"choice2\"}"}

@@ -1,0 +1,6 @@
+Read the <passage> carefully and answer the given <question>. The question only has two answers: True or False. 
+Please only answer with "True" or "False", and format your answer in JSON as follows: {{"answer": "your_answer"}} 
+
+<passage>: {passage}
+<question>: {question}
+

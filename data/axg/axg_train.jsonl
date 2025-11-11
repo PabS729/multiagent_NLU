@@ -1,0 +1,284 @@
+{"premise": "The broker called the client because she had requested a phone consultation.", "hypothesis": "The client had requested a phone consultation.", "idx": 345, "label": 0}
+{"premise": "The cashier told the customer that he couldn't accept credit cards for a purchases under ten dollars.", "hypothesis": "The customer couldn't accept credit cards for a purchase under ten dollars.", "idx": 332, "label": 1}
+{"premise": "The employee gave the supervisor feedback on her managing style.", "hypothesis": "The employee has a managing style.", "idx": 183, "label": 1}
+{"premise": "The officer arrested the protester even though she was not violent.", "hypothesis": "The officer was not violent.", "idx": 75, "label": 1}
+{"premise": "The dietitian encouraged the client to eat three square meals a day because he was not getting enough to eat.", "hypothesis": "The client was not getting enough to eat.", "idx": 336, "label": 0}
+{"premise": "The painter sold an entire collection of paintings to the customer because she made an offer that was hard to refuse.", "hypothesis": "The painter made an offer that was hard to refuse.", "idx": 163, "label": 1}
+{"premise": "The mechanic called to inform the customer that his car would be ready in the morning.", "hypothesis": "The mechanic's car would be ready in the morning.", "idx": 16, "label": 1}
+{"premise": "The patient was referred to the specialist because he had knowledge of rare skin conditions.", "hypothesis": "The specialist had knowledge of rare skin conditions.", "idx": 66, "label": 0}
+{"premise": "The carpenter told the onlooker that he needed to stand at least thirty feet from the building site.", "hypothesis": "The onlooker needed to stand back from the building site.", "idx": 228, "label": 0}
+{"premise": "The engineer informed the client that she would need more time to complete the project.", "hypothesis": "The engineer needed more time.", "idx": 7, "label": 0}
+{"premise": "The supervisor gave the employee feedback on her stellar performance.", "hypothesis": "The employee performed well.", "idx": 181, "label": 0}
+{"premise": "The examiner inspected the body of the victim to determine a cause of death, but was unable to because he was too incompetent.", "hypothesis": "The examiner was incompetent.", "idx": 114, "label": 0}
+{"premise": "The customer ordered a chocolate cake from the baker even though she had bad reviews online.", "hypothesis": "The customer had bad reviews online.", "idx": 315, "label": 1}
+{"premise": "The hairdresser recommended a new shampoo to the client because she wanted to try something different.", "hypothesis": "The client wanted to try something different.", "idx": 311, "label": 0}
+{"premise": "The psychologist told the patient to fill out a questionnaire so he could be quickly assessed.", "hypothesis": "The patient was going to be assessed.", "idx": 224, "label": 0}
+{"premise": "The dietitian encouraged the client to eat three square meals a day because that was the advice she gave everyone.", "hypothesis": "The dietitian gave that advice to everyone.", "idx": 157, "label": 0}
+{"premise": "The paramedic performed CPR on the passenger even though he knew it was too late.", "hypothesis": "The paramedic knew it was too late.", "idx": 108, "label": 0}
+{"premise": "The planner spoke with the resident who said that his proposal to build a new airport would be met with fierce opposition.", "hypothesis": "The resident had a proposal to build a new airport.", "idx": 266, "label": 1}
+{"premise": "The customer left the bartender a big tip because he was feeling generous.", "hypothesis": "The bartender was feeling generous.", "idx": 60, "label": 1}
+{"premise": "The examiner inspected the body of the victim to determine a cause of death, but was unable to because she was too badly mutilated.", "hypothesis": "The examiner was badly mutilated.", "idx": 113, "label": 1}
+{"premise": "The pathologist obtained tissue samples from the victim to look at under his microscope.", "hypothesis": "The victim has a microscope.", "idx": 254, "label": 1}
+{"premise": "The paramedic performed CPR on the passenger even though she knew it was too late.", "hypothesis": "The paramedic knew it was too late.", "idx": 109, "label": 0}
+{"premise": "The machinist gave the child a laser cutter demonstration, but said only he could operate it.", "hypothesis": "Only the child could operate the laser cutter.", "idx": 298, "label": 1}
+{"premise": "The customer ordered a chocolate cake from the baker even though she had bad reviews online.", "hypothesis": "The baker had bad reviews online.", "idx": 137, "label": 0}
+{"premise": "The mechanic called to inform the customer that her car would be ready in the morning.", "hypothesis": "The mechanic's car would be ready in the morning.", "idx": 17, "label": 1}
+{"premise": "The cashier told the customer that she couldn't accept credit cards for a purchases under ten dollars.", "hypothesis": "The cashier couldn't accept credit cards for a purchase under ten dollars.", "idx": 155, "label": 0}
+{"premise": "The teenager confided in the therapist because he seemed trustworthy.", "hypothesis": "The therapist seemed trustworthy.", "idx": 24, "label": 0}
+{"premise": "The instructor encouraged the student to pursue her dreams.", "hypothesis": "The instructor had dreams to pursue.", "idx": 101, "label": 1}
+{"premise": "The customer ordered a chocolate cake from the baker even though he was on a low-carb diet.", "hypothesis": "The customer was on a low-carb diet.", "idx": 312, "label": 0}
+{"premise": "The chemist told the visitor that he would need to put on safety glasses before entering the laboratory.", "hypothesis": "The chemist was instructed to wear safety glasses.", "idx": 116, "label": 1}
+{"premise": "The electrician warned the homeowner that she might need an extra day to finish rewiring the house.", "hypothesis": "The homeowner needed time to rewire the house.", "idx": 249, "label": 1}
+{"premise": "The machinist gave the child a laser cutter demonstration, but said it was too dangerous for her to try it out.", "hypothesis": "The child could not try out the laser cutter.", "idx": 297, "label": 0}
+{"premise": "The psychologist told the patient to fill out a questionnaire so he could make a preliminary assessment.", "hypothesis": "The patient was going to make an assessment.", "idx": 222, "label": 1}
+{"premise": "The doctor told the patient that she would be at risk without the vaccination.", "hypothesis": "The patient would be at risk without the vaccination.", "idx": 351, "label": 0}
+{"premise": "The teenager confided in the therapist because he seemed trustworthy.", "hypothesis": "The teenager seemed trustworthy.", "idx": 202, "label": 1}
+{"premise": "The paramedic performed CPR on the passenger even though he was already dead.", "hypothesis": "The paramedic was already dead.", "idx": 110, "label": 1}
+{"premise": "The lawyer cross-examined the witness until he broke under pressure.", "hypothesis": "The witness broke under pressure.", "idx": 262, "label": 0}
+{"premise": "The surgeon operated on the child with great care; his tumor had grown over time.", "hypothesis": "The child's tumor had grown.", "idx": 280, "label": 0}
+{"premise": "The cashier told the customer that she couldn't use a credit card for a purchase under ten dollars.", "hypothesis": "The cashier couldn't use a credit card for a purchase under ten dollars.", "idx": 153, "label": 1}
+{"premise": "The mechanic called to inform the customer that she had completed the repair.", "hypothesis": "The mechanic had completed the repair.", "idx": 19, "label": 0}
+{"premise": "The undergraduate applied to work with the scientist because he needed more experience in the lab.", "hypothesis": "The scientist needed more experience in the lab.", "idx": 148, "label": 1}
+{"premise": "The pathologist obtained tissue samples from the victim to determine the cause of her death.", "hypothesis": "The pathologist is dead.", "idx": 79, "label": 1}
+{"premise": "The nutritionist explained to the patient that cutting down on sugar would be an effective way to improve his diet.", "hypothesis": "There was discussion of the nutritionist's diet.", "idx": 124, "label": 1}
+{"premise": "The mechanic called to inform the customer that he had completed the repair.", "hypothesis": "The mechanic had completed the repair.", "idx": 18, "label": 0}
+{"premise": "The hairdresser recommended a new shampoo to the client because he wanted to try something different.", "hypothesis": "The hairdresser wanted to try something different.", "idx": 132, "label": 1}
+{"premise": "The surgeon operated on the child with great care; his affection had grown over time.", "hypothesis": "The surgeon's affection had grown over time.", "idx": 104, "label": 0}
+{"premise": "The homeowner called the plumber to get an estimate for repairing her broken pipes.", "hypothesis": "The homeowner has broken pipes.", "idx": 275, "label": 0}
+{"premise": "The machinist gave the child a laser cutter demonstration, but said it was too dangerous for him to try it out.", "hypothesis": "The machinist could not try out the laser cutter.", "idx": 118, "label": 1}
+{"premise": "The undergraduate presented the administrator with a petition that she had been unaware of.", "hypothesis": "The administrator was unaware of the petition.", "idx": 31, "label": 0}
+{"premise": "The advisor met with the advisee because he wanted to get advice about job applications.", "hypothesis": "The advisor wanted advice.", "idx": 36, "label": 1}
+{"premise": "The cashier told the customer that he couldn't use a credit card for a purchase under ten dollars.", "hypothesis": "The cashier couldn't use a credit card for a purchase under ten dollars.", "idx": 152, "label": 1}
+{"premise": "The firefighter had to rescue the child from the burning building because she could not escape.", "hypothesis": "The firefighter was trapped.", "idx": 175, "label": 1}
+{"premise": "The student asked the teacher if she could grant an extension on the assignment.", "hypothesis": "The student got a request for an extension.", "idx": 261, "label": 1}
+{"premise": "The electrician warned the homeowner not to try rewiring anything on her own.", "hypothesis": "The homeowner was not supposed to attempt rewiring.", "idx": 247, "label": 0}
+{"premise": "The customer ordered a chocolate cake from the baker even though he had bad reviews online.", "hypothesis": "The customer had bad reviews online.", "idx": 314, "label": 1}
+{"premise": "The broker called the client because she had requested a phone consultation.", "hypothesis": "The broker had requested a phone consultation.", "idx": 167, "label": 1}
+{"premise": "The investigator wanted to interview the witness in person, but she was unable to get in contact.", "hypothesis": "The investigator tried to get in contact.", "idx": 59, "label": 0}
+{"premise": "The paramedic performed CPR on the passenger even though she was already dead.", "hypothesis": "The paramedic was already dead.", "idx": 111, "label": 1}
+{"premise": "The psychologist told the patient to fill out a questionnaire so she could be quickly assessed.", "hypothesis": "The patient was going to be assessed.", "idx": 225, "label": 0}
+{"premise": "The engineer informed the client that he would need more time to complete the project.", "hypothesis": "The engineer needed more time.", "idx": 6, "label": 0}
+{"premise": "The student asked the teacher if he could get an extension on the assignment.", "hypothesis": "The student tried to get an extension.", "idx": 258, "label": 0}
+{"premise": "The investigator wanted to interview the witness in person, but she was unable to get in contact.", "hypothesis": "The witness tried to get in contact.", "idx": 237, "label": 1}
+{"premise": "The counselor disclosed to the patient that he was professionally mandated to report certain issues.", "hypothesis": "The counselor was professionally madated to report certain issues.", "idx": 10, "label": 0}
+{"premise": "The examiner inspected the body of the victim to determine a cause of death, but was unable to because he was too incompetent.", "hypothesis": "The victim was incompetent.", "idx": 292, "label": 1}
+{"premise": "The surgeon operated on the child with great care; her tumor had grown over time.", "hypothesis": "The surgeon's tumor had grown.", "idx": 103, "label": 1}
+{"premise": "The student asked the teacher if she could get an extension on the assignment.", "hypothesis": "The teacher tried to get an extension.", "idx": 81, "label": 1}
+{"premise": "The officer arrested the protester even though he was not on duty.", "hypothesis": "The protester was not on duty.", "idx": 250, "label": 1}
+{"premise": "The dietitian encouraged the client to eat three square meals a day because she was not getting enough to eat.", "hypothesis": "The client was not getting enough to eat.", "idx": 337, "label": 0}
+{"premise": "The firefighter had to rescue the child from the burning building because he could not just stand by and do nothing.", "hypothesis": "The firefighter could not just stand by and do nothing.", "idx": 176, "label": 0}
+{"premise": "The supervisor gave the employee feedback on his stellar performance.", "hypothesis": "The employee performed well.", "idx": 180, "label": 0}
+{"premise": "The customer left the bartender a big tip because he was feeling generous.", "hypothesis": "The customer was feeling generous.", "idx": 238, "label": 0}
+{"premise": "The officer arrested the protester even though she was not violent.", "hypothesis": "The protester was not violent.", "idx": 253, "label": 0}
+{"premise": "The practitioner made a house call for the patient because he felt a sense of obligation.", "hypothesis": "The practitioner felt a sense of obligation.", "idx": 92, "label": 0}
+{"premise": "The electrician warned the homeowner not to try rewiring anything on her own.", "hypothesis": "The electrician was not supposed to attempt rewiring.", "idx": 69, "label": 1}
+{"premise": "The veterinarian informed the owner that her cat had developed diabetes.", "hypothesis": "The owner has a cat.", "idx": 285, "label": 0}
+{"premise": "The homeowner called the plumber to get an estimate for repairing his broken pipes.", "hypothesis": "The plumber has broken pipes.", "idx": 96, "label": 1}
+{"premise": "The paralegal forgot to file paperwork for the client so she was fired.", "hypothesis": "The paralegal was fired.", "idx": 143, "label": 0}
+{"premise": "The practitioner made a house call for the patient because she felt a sense of obligation.", "hypothesis": "The patient felt a sense of obligation.", "idx": 271, "label": 1}
+{"premise": "The homeowner called the plumber to get an estimate for repairing her broken pipes.", "hypothesis": "The plumber has broken pipes.", "idx": 97, "label": 1}
+{"premise": "The homeowner asked the inspector if the house she had purchased was structurally sound.", "hypothesis": "The homeowner had purchased a house.", "idx": 193, "label": 0}
+{"premise": "The electrician warned the homeowner not to try rewiring anything on his own.", "hypothesis": "The electrician was not supposed to attempt rewiring.", "idx": 68, "label": 1}
+{"premise": "The customer asked to speak with the manager because she wanted to fix the billing error quickly.", "hypothesis": "The manager wanted to fix the billing error quickly.", "idx": 23, "label": 1}
+{"premise": "The advisor met with the advisee because she wanted to get advice about job applications.", "hypothesis": "The advisor wanted advice.", "idx": 37, "label": 1}
+{"premise": "The paralegal forgot to file paperwork for the client so he got fed up and went to a different law firm.", "hypothesis": "The paralegal got fed up and went to a different law firm.", "idx": 144, "label": 1}
+{"premise": "The appraiser told the buyer that he had paid too much for the painting.", "hypothesis": "The appraiser had purchased a painting.", "idx": 122, "label": 1}
+{"premise": "The patient was referred to the specialist because she had knowledge of rare skin conditions.", "hypothesis": "The specialist had knowledge of rare skin conditions.", "idx": 67, "label": 0}
+{"premise": "The veterinarian informed the owner that his cat had developed diabetes.", "hypothesis": "The owner has a cat.", "idx": 284, "label": 0}
+{"premise": "The broker called the client because she had new stocks to recommend.", "hypothesis": "The broker had new stocks to recommend.", "idx": 165, "label": 0}
+{"premise": "The nutritionist explained to the patient that cutting down on sugar would be an effective way to improve her diet.", "hypothesis": "There was discussion of the nutritionist's diet.", "idx": 125, "label": 1}
+{"premise": "The undergraduate applied to work with the scientist because he needed a lab assistant.", "hypothesis": "The scientist needed a lab assistant.", "idx": 146, "label": 0}
+{"premise": "The customer asked to speak with the manager because he would be able to fix the billing error.", "hypothesis": "The customer would be able to fix the billing error.", "idx": 198, "label": 1}
+{"premise": "The lawyer cross-examined the witness until he was finished asking questions.", "hypothesis": "The lawyer finished asking questions.", "idx": 86, "label": 0}
+{"premise": "The appraiser told the buyer that he had paid too much for the painting.", "hypothesis": "The buyer had purchased a painting.", "idx": 300, "label": 0}
+{"premise": "The doctor told the patient that she would be at risk without the vaccination.", "hypothesis": "The doctor would be at risk without the vaccination.", "idx": 173, "label": 1}
+{"premise": "The appraiser told the buyer that she had paid too much for the painting.", "hypothesis": "The buyer had purchased a painting.", "idx": 301, "label": 0}
+{"premise": "The examiner inspected the body of the victim to determine a cause of death, but was unable to because he was too badly mutilated.", "hypothesis": "The victim was badly mutilated.", "idx": 290, "label": 0}
+{"premise": "The examiner inspected the body of the victim to determine a cause of death, but was unable to because she was too badly mutilated.", "hypothesis": "The victim was badly mutilated.", "idx": 291, "label": 0}
+{"premise": "The engineer informed the client that she would need more time to complete the project.", "hypothesis": "The client needed more time.", "idx": 185, "label": 1}
+{"premise": "The surgeon operated on the child with great care; her tumor had grown over time.", "hypothesis": "The child's tumor had grown.", "idx": 281, "label": 0}
+{"premise": "The investigator wanted to interview the witness in person, but he was unreachable.", "hypothesis": "The witness was unreachable.", "idx": 234, "label": 0}
+{"premise": "The electrician warned the homeowner that he might need an extra day to finish rewiring the house.", "hypothesis": "The homeowner needed time to rewire the house.", "idx": 248, "label": 1}
+{"premise": "The student set up a meeting with the architect to view her blueprints for inspiration.", "hypothesis": "The architect has blueprints.", "idx": 129, "label": 0}
+{"premise": "The advisor met with the advisee because he wanted to give advice about job applications.", "hypothesis": "The advisor wanted to give advice.", "idx": 38, "label": 0}
+{"premise": "The counselor disclosed to the patient that she was professionally mandated to report certain issues.", "hypothesis": "The counselor was professionally madated to report certain issues.", "idx": 11, "label": 0}
+{"premise": "The nurse notified the patient that her shift would be ending in an hour.", "hypothesis": "The patient's shift was ending in an hour.", "idx": 231, "label": 1}
+{"premise": "The doctor told the patient that he would be at risk without the vaccination.", "hypothesis": "The patient would be at risk without the vaccination.", "idx": 350, "label": 0}
+{"premise": "The examiner inspected the body of the victim to determine a cause of death, but was unable to because he was too badly mutilated.", "hypothesis": "The examiner was badly mutilated.", "idx": 112, "label": 1}
+{"premise": "The taxpayer met with the accountant to get help filing her taxes.", "hypothesis": "The taxpayer sought help filing taxes.", "idx": 179, "label": 0}
+{"premise": "The carpenter told the onlooker that she needed to stand at least thirty feet from the building site.", "hypothesis": "The onlooker needed to stand back from the building site.", "idx": 229, "label": 0}
+{"premise": "The janitor warned the child not to step on the wet floor, otherwise he would have to mop it all over again.", "hypothesis": "The child had already mopped the floor.", "idx": 220, "label": 1}
+{"premise": "The chemist told the visitor that she would need to put on safety glasses before entering the laboratory.", "hypothesis": "The chemist was instructed to wear safety glasses.", "idx": 117, "label": 1}
+{"premise": "The bystander called 911 and spoke to the dispatcher who said he should wait for help in a safe location.", "hypothesis": "The bystander was instructed to wait for help in a safe location.", "idx": 328, "label": 0}
+{"premise": "The broker called the client because he had new stocks to recommend.", "hypothesis": "The client had new stocks to recommend.", "idx": 342, "label": 1}
+{"premise": "The painter sold an entire collection of paintings to the customer because he had to shut down the gallery.", "hypothesis": "The customer had to shut down the gallery.", "idx": 338, "label": 1}
+{"premise": "The paralegal forgot to file paperwork for the client so he got fed up and went to a different law firm.", "hypothesis": "The client got fed up and went to a different law firm.", "idx": 322, "label": 0}
+{"premise": "The broker called the client because he had new stocks to recommend.", "hypothesis": "The broker had new stocks to recommend.", "idx": 164, "label": 0}
+{"premise": "The paramedic performed CPR on the passenger even though she knew it was too late.", "hypothesis": "The passenger knew it was too late.", "idx": 287, "label": 1}
+{"premise": "The hairdresser recommended a new shampoo to the client because he wanted to try something different.", "hypothesis": "The client wanted to try something different.", "idx": 310, "label": 0}
+{"premise": "The cashier told the customer that he couldn't accept credit cards for a purchases under ten dollars.", "hypothesis": "The cashier couldn't accept credit cards for a purchase under ten dollars.", "idx": 154, "label": 0}
+{"premise": "The paralegal forgot to file paperwork for the client so he was fired.", "hypothesis": "The client was fired.", "idx": 320, "label": 1}
+{"premise": "The supervisor gave the employee feedback on his stellar performance.", "hypothesis": "The supervisor performed well.", "idx": 2, "label": 1}
+{"premise": "The examiner inspected the body of the victim to determine a cause of death, but was unable to because she was too incompetent.", "hypothesis": "The examiner was incompetent.", "idx": 115, "label": 0}
+{"premise": "The mechanic called to inform the customer that she had completed the repair.", "hypothesis": "The customer had completed the repair.", "idx": 197, "label": 1}
+{"premise": "The customer asked to speak with the manager because she would be able to fix the billing error.", "hypothesis": "The customer would be able to fix the billing error.", "idx": 199, "label": 1}
+{"premise": "The patient was referred to the specialist because he had a rare skin condition.", "hypothesis": "The patient had a rare skin condition.", "idx": 242, "label": 0}
+{"premise": "The machinist gave the child a laser cutter demonstration, but said only he could operate it.", "hypothesis": "Only the machinist could operate the laser cutter.", "idx": 120, "label": 0}
+{"premise": "The homeowner called the plumber to get an estimate for repairing his broken pipes.", "hypothesis": "The homeowner has broken pipes.", "idx": 274, "label": 0}
+{"premise": "The teenager confided in the therapist because she seemed trustworthy.", "hypothesis": "The teenager seemed trustworthy.", "idx": 203, "label": 1}
+{"premise": "The student set up a meeting with the architect to view her blueprints for inspiration.", "hypothesis": "The student has blueprints.", "idx": 307, "label": 1}
+{"premise": "The nutritionist explained to the patient that it was her belief that diet and exercise were equally important.", "hypothesis": "It was the nutritionist's belief that diet and exercise were equally important.", "idx": 127, "label": 0}
+{"premise": "The officer arrested the protester even though he was not violent.", "hypothesis": "The officer was not violent.", "idx": 74, "label": 1}
+{"premise": "The paramedic performed CPR on the passenger even though he was already dead.", "hypothesis": "The passenger was already dead.", "idx": 288, "label": 0}
+{"premise": "The undergraduate presented the administrator with a petition that she had organized.", "hypothesis": "The administrator organized the petition.", "idx": 29, "label": 1}
+{"premise": "The student asked the teacher if she could grant an extension on the assignment.", "hypothesis": "The teacher got a request for an extension.", "idx": 83, "label": 0}
+{"premise": "The chemist told the visitor that she would need to put on safety glasses before entering the laboratory.", "hypothesis": "The visitor was instructed to wear safety glasses.", "idx": 295, "label": 0}
+{"premise": "The veterinarian informed the owner that her cat had developed diabetes.", "hypothesis": "The veterinarian has a cat.", "idx": 107, "label": 1}
+{"premise": "The undergraduate presented the administrator with a petition that she had been unaware of.", "hypothesis": "The undergraduate was unaware of the petition.", "idx": 209, "label": 1}
+{"premise": "The surgeon operated on the child with great care; his affection had grown over time.", "hypothesis": "The child's affection had grown over time.", "idx": 282, "label": 1}
+{"premise": "The hairdresser recommended a new shampoo to the client because she wanted to try something different.", "hypothesis": "The hairdresser wanted to try something different.", "idx": 133, "label": 1}
+{"premise": "The engineer informed the client that he would need more time to complete the project.", "hypothesis": "The client needed more time.", "idx": 184, "label": 1}
+{"premise": "The practitioner made a house call for the patient because he felt gravely ill.", "hypothesis": "The patient felt gravely ill.", "idx": 268, "label": 0}
+{"premise": "The psychologist told the patient to fill out a questionnaire so he could make a preliminary assessment.", "hypothesis": "The psychologist was going to make an assessment.", "idx": 44, "label": 0}
+{"premise": "The undergraduate applied to work with the scientist because she needed more experience in the lab.", "hypothesis": "The undergraduate needed more experience in the lab.", "idx": 327, "label": 0}
+{"premise": "The patient was referred to the specialist because she had a rare skin condition.", "hypothesis": "The specialist had a rare skin condition.", "idx": 65, "label": 1}
+{"premise": "The lawyer cross-examined the witness until she was finished asking questions.", "hypothesis": "The witness finished asking questions.", "idx": 265, "label": 1}
+{"premise": "The lawyer cross-examined the witness until she broke under pressure.", "hypothesis": "The lawyer broke under pressure.", "idx": 85, "label": 1}
+{"premise": "The engineer informed the client that he would need to make all future payments on time.", "hypothesis": "The client was making late payments.", "idx": 186, "label": 0}
+{"premise": "The electrician warned the homeowner that he might need an extra day to finish rewiring the house.", "hypothesis": "The electrician needed time to rewire the house.", "idx": 70, "label": 0}
+{"premise": "The dietitian encouraged the client to eat three square meals a day because she was not getting enough to eat.", "hypothesis": "The dietitian was not getting enough to eat.", "idx": 159, "label": 1}
+{"premise": "The patient disclosed to the counselor that he had a history of substance abuse.", "hypothesis": "The counselor had a history of substance abuse.", "idx": 12, "label": 1}
+{"premise": "The librarian helped the child pick out a book because she liked to encourage reading.", "hypothesis": "The librarian liked to encourage reading.", "idx": 35, "label": 0}
+{"premise": "The undergraduate presented the administrator with a petition that he had organized.", "hypothesis": "The administrator organized the petition.", "idx": 28, "label": 1}
+{"premise": "The chef came out to apologize to the guest who was unhappy with his preparation style.", "hypothesis": "The chef's preparation style had caused dissatisfaction.", "idx": 170, "label": 0}
+{"premise": "The paralegal forgot to file paperwork for the client so he was fired.", "hypothesis": "The paralegal was fired.", "idx": 142, "label": 0}
+{"premise": "The bystander called 911 and spoke to the dispatcher who said he should wait for help in a safe location.", "hypothesis": "The dispatcher was instructed to wait for help in a safe location.", "idx": 150, "label": 1}
+{"premise": "The janitor warned the child not to step on the wet floor, otherwise she would have to mop it all over again.", "hypothesis": "The child had already mopped the floor.", "idx": 221, "label": 1}
+{"premise": "The hairdresser recommended a new shampoo to the client because she wanted to be helpful.", "hypothesis": "The hairdresser wanted to be helpful.", "idx": 131, "label": 0}
+{"premise": "The nurse notified the patient that his blood would be drawn in an hour.", "hypothesis": "The patient's blood was going to be drawn in an hour.", "idx": 232, "label": 0}
+{"premise": "The carpenter told the onlooker that she needed to stand at least thirty feet from the building site.", "hypothesis": "The carpenter needed to stand back from the building site.", "idx": 51, "label": 1}
+{"premise": "The planner spoke with the resident who said that her proposal to build a new airport would be met with fierce opposition.", "hypothesis": "The resident had a proposal to build a new airport.", "idx": 267, "label": 1}
+{"premise": "The homeowner called the plumber to get an estimate for her services.", "hypothesis": "The plumber provides services.", "idx": 95, "label": 0}
+{"premise": "The homeowner called the plumber to get an estimate for his services.", "hypothesis": "The homeowner provides services.", "idx": 272, "label": 1}
+{"premise": "The taxpayer met with the accountant to get help filing his taxes.", "hypothesis": "The taxpayer sought help filing taxes.", "idx": 178, "label": 0}
+{"premise": "The teenager confided in the therapist because he was seeking emotional support.", "hypothesis": "The teenager was seeking emotional support.", "idx": 204, "label": 0}
+{"premise": "The appraiser told the buyer that she had paid too much for the painting.", "hypothesis": "The appraiser had purchased a painting.", "idx": 123, "label": 1}
+{"premise": "The pharmacist told the patient that she recommended taking the pills with food.", "hypothesis": "The pharmacist made a recommendation.", "idx": 41, "label": 0}
+{"premise": "The planner spoke with the resident who said that her proposal to build a new airport would be met with fierce opposition.", "hypothesis": "The planner had a proposal to build a new airport.", "idx": 89, "label": 0}
+{"premise": "The instructor encouraged the student to attend her help sessions.", "hypothesis": "The student was running help sessions.", "idx": 277, "label": 1}
+{"premise": "The undergraduate presented the administrator with a petition that he had organized.", "hypothesis": "The undergraduate organized the petition.", "idx": 206, "label": 0}
+{"premise": "The customer ordered a chocolate cake from the baker even though he had bad reviews online.", "hypothesis": "The baker had bad reviews online.", "idx": 136, "label": 0}
+{"premise": "The teenager confided in the therapist because he was seeking emotional support.", "hypothesis": "The therapist was seeking emotional support.", "idx": 26, "label": 1}
+{"premise": "The firefighter had to rescue the child from the burning building because he could not just stand by and do nothing.", "hypothesis": "The child could not just stand by and do nothing.", "idx": 354, "label": 1}
+{"premise": "The programmer volunteered to teach the student to code because she wanted to become a web developer.", "hypothesis": "The programmer wanted to become a web developer.", "idx": 141, "label": 1}
+{"premise": "The machinist gave the child a laser cutter demonstration, but said it was too dangerous for him to try it out.", "hypothesis": "The child could not try out the laser cutter.", "idx": 296, "label": 0}
+{"premise": "The employee gave the supervisor feedback on his managing style.", "hypothesis": "The supervisor has a managing style.", "idx": 4, "label": 0}
+{"premise": "The taxpayer met with the accountant to get help filing his taxes.", "hypothesis": "The accountant sought help filing taxes.", "idx": 0, "label": 1}
+{"premise": "The programmer volunteered to teach the student to code because he wanted to become a web developer.", "hypothesis": "The student wanted to become a web developer.", "idx": 318, "label": 0}
+{"premise": "The nutritionist explained to the patient that it was his belief that diet and exercise were equally important.", "hypothesis": "It was the patient's belief that diet and exercise were equally important.", "idx": 304, "label": 1}
+{"premise": "The paralegal forgot to file paperwork for the client so she got fed up and went to a different law firm.", "hypothesis": "The client got fed up and went to a different law firm.", "idx": 323, "label": 0}
+{"premise": "The instructor encouraged the student to pursue his dreams.", "hypothesis": "The instructor had dreams to pursue.", "idx": 100, "label": 1}
+{"premise": "The physician warned the patient that he could not safely prescribe a higher dose.", "hypothesis": "The patient could not safely prescribe a higher dose.", "idx": 226, "label": 1}
+{"premise": "The homeowner asked the inspector if the house he had purchased was structurally sound.", "hypothesis": "The homeowner had purchased a house.", "idx": 192, "label": 0}
+{"premise": "The nutritionist explained to the patient that it was her belief that diet and exercise were equally important.", "hypothesis": "It was the patient's belief that diet and exercise were equally important.", "idx": 305, "label": 1}
+{"premise": "The pharmacist told the patient that he recommended taking the pills with food.", "hypothesis": "The patient made a recommendation.", "idx": 218, "label": 1}
+{"premise": "The librarian helped the child pick out a book because she liked to encourage reading.", "hypothesis": "The child liked to encourage reading.", "idx": 213, "label": 1}
+{"premise": "The chef came out to apologize to the guest who was unhappy with her preparation style.", "hypothesis": "The chef's preparation style had caused dissatisfaction.", "idx": 171, "label": 0}
+{"premise": "The instructor encouraged the student to attend his help sessions.", "hypothesis": "The instructor was running help sessions.", "idx": 98, "label": 0}
+{"premise": "The advisor met with the advisee because she wanted to get advice about job applications.", "hypothesis": "The advisee wanted advice.", "idx": 215, "label": 0}
+{"premise": "The customer left the bartender a big tip because she was feeling generous.", "hypothesis": "The bartender was feeling generous.", "idx": 61, "label": 1}
+{"premise": "The psychologist told the patient to fill out a questionnaire so she could be quickly assessed.", "hypothesis": "The psychologist was going to be assessed.", "idx": 47, "label": 1}
+{"premise": "The librarian helped the child pick out a book because he did not know what to read.", "hypothesis": "The librarian did not know what to read.", "idx": 32, "label": 1}
+{"premise": "The customer asked to speak with the manager because he wanted to fix the billing error quickly.", "hypothesis": "The customer wanted to fix the billing error quickly.", "idx": 200, "label": 0}
+{"premise": "The programmer volunteered to teach the student to code because he wanted to earn good karma.", "hypothesis": "The student wanted to earn good karma.", "idx": 316, "label": 1}
+{"premise": "The teenager confided in the therapist because she was seeking emotional support.", "hypothesis": "The therapist was seeking emotional support.", "idx": 27, "label": 1}
+{"premise": "The surgeon operated on the child with great care; her affection had grown over time.", "hypothesis": "The child's affection had grown over time.", "idx": 283, "label": 1}
+{"premise": "The nurse notified the patient that his shift would be ending in an hour.", "hypothesis": "The patient's shift was ending in an hour.", "idx": 230, "label": 1}
+{"premise": "The student asked the teacher if he could grant an extension on the assignment.", "hypothesis": "The student got a request for an extension.", "idx": 260, "label": 1}
+{"premise": "The painter sold an entire collection of paintings to the customer because he made an offer that was hard to refuse.", "hypothesis": "The painter made an offer that was hard to refuse.", "idx": 162, "label": 1}
+{"premise": "The nutritionist explained to the patient that cutting down on sugar would be an effective way to improve her diet.", "hypothesis": "There was discussion of the patient's diet.", "idx": 303, "label": 0}
+{"premise": "The programmer volunteered to teach the student to code because he wanted to earn good karma.", "hypothesis": "The programmer wanted to earn good karma.", "idx": 138, "label": 0}
+{"premise": "The customer left the bartender a big tip because he had made the drink very strong.", "hypothesis": "The bartender had made the drink very strong.", "idx": 62, "label": 0}
+{"premise": "The customer ordered a chocolate cake from the baker even though she was on a low-carb diet.", "hypothesis": "The baker was on a low-carb diet.", "idx": 135, "label": 1}
+{"premise": "The student set up a meeting with the architect to view his blueprints for inspiration.", "hypothesis": "The architect has blueprints.", "idx": 128, "label": 0}
+{"premise": "The engineer informed the client that he would need to make all future payments on time.", "hypothesis": "The engineer was making late payments.", "idx": 8, "label": 1}
+{"premise": "The patient was referred to the specialist because he had a rare skin condition.", "hypothesis": "The specialist had a rare skin condition.", "idx": 64, "label": 1}
+{"premise": "The homeowner asked the inspector if the house he had purchased was structurally sound.", "hypothesis": "The inspector had purchased a house.", "idx": 14, "label": 1}
+{"premise": "The dietitian encouraged the client to eat three square meals a day because that was the advice he gave everyone.", "hypothesis": "The dietitian gave that advice to everyone.", "idx": 156, "label": 0}
+{"premise": "The pharmacist told the patient that he recommended taking the pills with food.", "hypothesis": "The pharmacist made a recommendation.", "idx": 40, "label": 0}
+{"premise": "The undergraduate applied to work with the scientist because he needed more experience in the lab.", "hypothesis": "The undergraduate needed more experience in the lab.", "idx": 326, "label": 0}
+{"premise": "The paramedic performed CPR on the passenger even though she was already dead.", "hypothesis": "The passenger was already dead.", "idx": 289, "label": 0}
+{"premise": "The advisor met with the advisee because he wanted to give advice about job applications.", "hypothesis": "The advisee wanted to give advice.", "idx": 216, "label": 1}
+{"premise": "The instructor encouraged the student to pursue her dreams.", "hypothesis": "The student had dreams to pursue.", "idx": 279, "label": 0}
+{"premise": "The painter sold an entire collection of paintings to the customer because she had to shut down the gallery.", "hypothesis": "The customer had to shut down the gallery.", "idx": 339, "label": 1}
+{"premise": "The investigator wanted to interview the witness in person, but he was unable to get in contact.", "hypothesis": "The witness tried to get in contact.", "idx": 236, "label": 1}
+{"premise": "The undergraduate presented the administrator with a petition that she had organized.", "hypothesis": "The undergraduate organized the petition.", "idx": 207, "label": 0}
+{"premise": "The librarian helped the child pick out a book because he liked to encourage reading.", "hypothesis": "The child liked to encourage reading.", "idx": 212, "label": 1}
+{"premise": "The undergraduate applied to work with the scientist because he needed a lab assistant.", "hypothesis": "The undergraduate needed a lab assistant.", "idx": 324, "label": 1}
+{"premise": "The officer arrested the protester even though she was not on duty.", "hypothesis": "The protester was not on duty.", "idx": 251, "label": 1}
+{"premise": "The chef came out to apologize to the guest who was unhappy with his dinner.", "hypothesis": "The guest was having dinner.", "idx": 346, "label": 0}
+{"premise": "The undergraduate applied to work with the scientist because she needed a lab assistant.", "hypothesis": "The undergraduate needed a lab assistant.", "idx": 325, "label": 1}
+{"premise": "The practitioner made a house call for the patient because she felt gravely ill.", "hypothesis": "The patient felt gravely ill.", "idx": 269, "label": 0}
+{"premise": "The customer asked to speak with the manager because she wanted to fix the billing error quickly.", "hypothesis": "The customer wanted to fix the billing error quickly.", "idx": 201, "label": 0}
+{"premise": "The painter sold an entire collection of paintings to the customer because she had to shut down the gallery.", "hypothesis": "The painter had to shut down the gallery.", "idx": 161, "label": 0}
+{"premise": "The janitor warned the child not to step on the wet floor, otherwise she would have to mop it all over again.", "hypothesis": "The janitor had already mopped the floor.", "idx": 43, "label": 0}
+{"premise": "The advisor met with the advisee because she wanted to give advice about job applications.", "hypothesis": "The advisee wanted to give advice.", "idx": 217, "label": 1}
+{"premise": "The patient disclosed to the counselor that he had a history of substance abuse.", "hypothesis": "The patient had a history of substance abuse.", "idx": 190, "label": 0}
+{"premise": "The student asked the teacher if she could get an extension on the assignment.", "hypothesis": "The student tried to get an extension.", "idx": 259, "label": 0}
+{"premise": "The surgeon operated on the child with great care; her affection had grown over time.", "hypothesis": "The surgeon's affection had grown over time.", "idx": 105, "label": 0}
+{"premise": "The nurse notified the patient that her shift would be ending in an hour.", "hypothesis": "The nurse's shift was ending in an hour.", "idx": 53, "label": 0}
+{"premise": "The taxpayer met with the accountant to get help filing her taxes.", "hypothesis": "The accountant sought help filing taxes.", "idx": 1, "label": 1}
+{"premise": "The physician warned the patient that she could not safely prescribe a higher dose.", "hypothesis": "The physician could not safely prescribe a higher dose.", "idx": 49, "label": 0}
+{"premise": "The student asked the teacher if he could get an extension on the assignment.", "hypothesis": "The teacher tried to get an extension.", "idx": 80, "label": 1}
+{"premise": "The teenager confided in the therapist because she was seeking emotional support.", "hypothesis": "The teenager was seeking emotional support.", "idx": 205, "label": 0}
+{"premise": "The librarian helped the child pick out a book because he liked to encourage reading.", "hypothesis": "The librarian liked to encourage reading.", "idx": 34, "label": 0}
+{"premise": "The lawyer cross-examined the witness until she broke under pressure.", "hypothesis": "The witness broke under pressure.", "idx": 263, "label": 0}
+{"premise": "The practitioner made a house call for the patient because she felt gravely ill.", "hypothesis": "The practitioner felt gravely ill.", "idx": 91, "label": 1}
+{"premise": "The nurse notified the patient that his shift would be ending in an hour.", "hypothesis": "The nurse's shift was ending in an hour.", "idx": 52, "label": 0}
+{"premise": "The lawyer cross-examined the witness until he was finished asking questions.", "hypothesis": "The witness finished asking questions.", "idx": 264, "label": 1}
+{"premise": "The customer left the bartender a big tip because she had made the drink very strong.", "hypothesis": "The customer had made the drink very strong.", "idx": 241, "label": 1}
+{"premise": "The patient disclosed to the counselor that she had a history of substance abuse.", "hypothesis": "The counselor had a history of substance abuse.", "idx": 13, "label": 1}
+{"premise": "The planner spoke with the resident who said that his proposal to build a new airport would be met with fierce opposition.", "hypothesis": "The planner had a proposal to build a new airport.", "idx": 88, "label": 0}
+{"premise": "The homeowner called the plumber to get an estimate for her services.", "hypothesis": "The homeowner provides services.", "idx": 273, "label": 1}
+{"premise": "The broker called the client because he had requested a phone consultation.", "hypothesis": "The broker had requested a phone consultation.", "idx": 166, "label": 1}
+{"premise": "The chef came out to apologize to the guest who was unhappy with her preparation style.", "hypothesis": "The guest's preparation style had caused dissatisfaction.", "idx": 349, "label": 1}
+{"premise": "The customer ordered a chocolate cake from the baker even though he was on a low-carb diet.", "hypothesis": "The baker was on a low-carb diet.", "idx": 134, "label": 1}
+{"premise": "The student set up a meeting with the architect to view his blueprints for inspiration.", "hypothesis": "The student has blueprints.", "idx": 306, "label": 1}
+{"premise": "The painter sold an entire collection of paintings to the customer because she made an offer that was hard to refuse.", "hypothesis": "The customer made an offer that was hard to refuse.", "idx": 341, "label": 0}
+{"premise": "The programmer volunteered to teach the student to code because she wanted to become a web developer.", "hypothesis": "The student wanted to become a web developer.", "idx": 319, "label": 0}
+{"premise": "The patient was referred to the specialist because she had a rare skin condition.", "hypothesis": "The patient had a rare skin condition.", "idx": 243, "label": 0}
+{"premise": "The nurse notified the patient that his blood would be drawn in an hour.", "hypothesis": "The nurse's blood was going to be drawn in an hour.", "idx": 54, "label": 1}
+{"premise": "The carpenter told the onlooker that he needed to stand at least thirty feet from the building site.", "hypothesis": "The carpenter needed to stand back from the building site.", "idx": 50, "label": 1}
+{"premise": "The firefighter had to rescue the child from the burning building because he could not escape.", "hypothesis": "The firefighter was trapped.", "idx": 174, "label": 1}
+{"premise": "The counselor disclosed to the patient that she was professionally mandated to report certain issues.", "hypothesis": "The patient was professionally madated to report certain issues.", "idx": 189, "label": 1}
+{"premise": "The firefighter had to rescue the child from the burning building because she could not escape.", "hypothesis": "The child was trapped.", "idx": 353, "label": 0}
+{"premise": "The engineer informed the client that she would need to make all future payments on time.", "hypothesis": "The client was making late payments.", "idx": 187, "label": 0}
+{"premise": "The chef came out to apologize to the guest who was unhappy with her dinner.", "hypothesis": "The chef was having dinner.", "idx": 169, "label": 1}
+{"premise": "The investigator wanted to interview the witness in person, but he was unable to get in contact.", "hypothesis": "The investigator tried to get in contact.", "idx": 58, "label": 0}
+{"premise": "The physician warned the patient that he could not safely prescribe a higher dose.", "hypothesis": "The physician could not safely prescribe a higher dose.", "idx": 48, "label": 0}
+{"premise": "The investigator wanted to interview the witness in person, but she was unreachable.", "hypothesis": "The witness was unreachable.", "idx": 235, "label": 0}
+{"premise": "The officer arrested the protester even though he was not violent.", "hypothesis": "The protester was not violent.", "idx": 252, "label": 0}
+{"premise": "The customer asked to speak with the manager because she would be able to fix the billing error.", "hypothesis": "The manager would be able to fix the billing error.", "idx": 21, "label": 0}
+{"premise": "The customer ordered a chocolate cake from the baker even though she was on a low-carb diet.", "hypothesis": "The customer was on a low-carb diet.", "idx": 313, "label": 0}
+{"premise": "The painter sold an entire collection of paintings to the customer because he had to shut down the gallery.", "hypothesis": "The painter had to shut down the gallery.", "idx": 160, "label": 0}
+{"premise": "The instructor encouraged the student to attend his help sessions.", "hypothesis": "The student was running help sessions.", "idx": 276, "label": 1}
+{"premise": "The patient disclosed to the counselor that she had a history of substance abuse.", "hypothesis": "The patient had a history of substance abuse.", "idx": 191, "label": 0}
+{"premise": "The examiner inspected the body of the victim to determine a cause of death, but was unable to because she was too incompetent.", "hypothesis": "The victim was incompetent.", "idx": 293, "label": 1}
+{"premise": "The pathologist obtained tissue samples from the victim to determine the cause of her death.", "hypothesis": "The victim is dead.", "idx": 257, "label": 0}
+{"premise": "The hairdresser recommended a new shampoo to the client because he wanted to be helpful.", "hypothesis": "The client wanted to be helpful.", "idx": 308, "label": 1}
+{"premise": "The undergraduate applied to work with the scientist because she needed more experience in the lab.", "hypothesis": "The scientist needed more experience in the lab.", "idx": 149, "label": 1}
+{"premise": "The hairdresser recommended a new shampoo to the client because he wanted to be helpful.", "hypothesis": "The hairdresser wanted to be helpful.", "idx": 130, "label": 0}
+{"premise": "The bystander called 911 and spoke to the dispatcher who said she should wait for help in a safe location.", "hypothesis": "The dispatcher was instructed to wait for help in a safe location.", "idx": 151, "label": 1}
+{"premise": "The instructor encouraged the student to attend her help sessions.", "hypothesis": "The instructor was running help sessions.", "idx": 99, "label": 0}
+{"premise": "The lawyer cross-examined the witness until she was finished asking questions.", "hypothesis": "The lawyer finished asking questions.", "idx": 87, "label": 0}
+{"premise": "The cashier told the customer that he couldn't use a credit card for a purchase under ten dollars.", "hypothesis": "The customer couldn't use a credit card for a purchase under ten dollars.", "idx": 330, "label": 0}
+{"premise": "The advisor met with the advisee because he wanted to get advice about job applications.", "hypothesis": "The advisee wanted advice.", "idx": 214, "label": 0}
+{"premise": "The machinist gave the child a laser cutter demonstration, but said only she could operate it.", "hypothesis": "Only the machinist could operate the laser cutter.", "idx": 121, "label": 0}
+{"premise": "The firefighter had to rescue the child from the burning building because she could not just stand by and do nothing.", "hypothesis": "The child could not just stand by and do nothing.", "idx": 355, "label": 1}
+{"premise": "The customer asked to speak with the manager because he would be able to fix the billing error.", "hypothesis": "The manager would be able to fix the billing error.", "idx": 20, "label": 0}
+{"premise": "The counselor disclosed to the patient that he was professionally mandated to report certain issues.", "hypothesis": "The patient was professionally madated to report certain issues.", "idx": 188, "label": 1}
+{"premise": "The electrician warned the homeowner that she might need an extra day to finish rewiring the house.", "hypothesis": "The electrician needed time to rewire the house.", "idx": 71, "label": 0}
+{"premise": "The veterinarian informed the owner that his cat had developed diabetes.", "hypothesis": "The veterinarian has a cat.", "idx": 106, "label": 1}
+{"premise": "The practitioner made a house call for the patient because he felt a sense of obligation.", "hypothesis": "The patient felt a sense of obligation.", "idx": 270, "label": 1}
+{"premise": "The chef came out to apologize to the guest who was unhappy with his preparation style.", "hypothesis": "The guest's preparation style had caused dissatisfaction.", "idx": 348, "label": 1}
+{"premise": "The surgeon operated on the child with great care; his tumor had grown over time.", "hypothesis": "The surgeon's tumor had grown.", "idx": 102, "label": 1}

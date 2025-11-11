@@ -1,0 +1,5 @@
+Please read the <passage> carefully and consider filling in the @placeholder in <query> given the choices from <entities>. 
+You must answer with only one item from <entities>. Please format your answer in JSON like so: {{"answer": "your_answer"}}
+<passage>: {passage}
+<query>: {query}
+<entities>: {entities}

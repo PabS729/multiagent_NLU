@@ -1,0 +1,18 @@
+<Description>
+Please identify whether <sentence1> entails or does not entail <sentence2>.
+</Description>
+
+
+<Label>
+ex1: not_entailment.
+ex2: entailment.
+</Label>
+
+<Input_desc>
+ex1: sentence1: The cat sat on the mat. sentence2: The cat did not sit on the mat.
+ex2: sentence1: The market is about to get harder, but possible to navigate. sentence2: The market is about to get harder, but not impossible to navigate.
+</Input_desc>
+
+<Output_format>
+Answer with "entailment" or "not_entailment". Please answer with this JSON format: {{"answer": "your_answer"}} 
+</Output_format>

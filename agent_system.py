@@ -1,4 +1,4 @@
-from LLM import *
+from LLM_all import *
 import datasets
 from select_example import *
 from collections import Counter
@@ -7,11 +7,12 @@ import logging
 import json
 from tqdm import tqdm
 import ast
+from eval_all import *
+from run_test_all import *
+import copy
 
-def generate_using_metaprompt(model, prompt, data):
-    result = model.run_inference(data["description"], data["sentence"], data["label"],prompt)
 
-    return result["summarization"], result["verification"], result["execution"]
+
 
 #evaluate labels for a single sentence
 def error_type_ner(label, predict):
@@ -61,7 +62,14 @@ def evaluate_ner(labels, model_predicts):
 
     return precision, recall, f1_score
 
-
+def load_pred(pred, output_map):
+    try:
+        b = json.loads(pred)
+        r = output_map[b["answer"]]
+        return r
+    except Exception as e:
+        print(e)
+        return b
 
 
 def is_equal(single_label, single_model_predict):
@@ -76,69 +84,167 @@ def is_equal(single_label, single_model_predict):
         return int(single_label) == int(single_model_predict)
 
 
-def run_multiagent_system_train(dataset_name, prompt, args):
-    if args.model_name == "OSS":
-        model = remote_LLM('http://10.244.50.59:1234/model', args.model_name)
+def run_multiagent_system_train(dataset_meta, task_meta, prompt, args):
+    if args.gn_model_name == "OSS":
+        gen_model = remote_LLM('http://10.244.50.59:1234/model', args.model_name)
     else:
-        model = local_LLM()
+        gen_model = HF_LLM(args.model_name)
+    
+    if args.exe_model_name == "OSS":
+        exe_model = remote_LLM('http://10.244.50.59:1234/model', args.model_name)
+    else:
+        exe_model = HF_LLM(args.model_name)
+
+    if args.sum_model_name == "OSS":
+        sum_model = remote_LLM('http://10.244.50.59:1234/model', args.model_name)
+    else:
+        sum_model = HF_LLM(args.model_name)
+    
+    if args.ver_model_name == "OSS":
+        ver_model = remote_LLM('http://10.244.50.59:1234/model', args.model_name)
+    else:
+        ver_model = HF_LLM(args.model_name)
 
     
-    
-    loaded_data = datasets.load_dataset(name=args.dataset_name, split="train")
-    sentence_name = loaded_data[0].keys[0]
-    label_name = loaded_data[0].keys[1]
+    with open("prompts/meta_prompt.txt") as f:
+        meta_prompt_tmpl = f.read()
+    with open("prompts/meta_prompt_tmpl_w_feed.txt") as g:
+        meta_prompt_tmpl_w_feed = g.read()
 
-    #select data sample for meta-prompt generation
-    sample_data = loaded_data[0]
+    input_example = task_meta["task_input"]
+    label = task_meta["label"]
+    output_format = task_meta["task_output"]
+    task_description = task_meta["task_description"]
+    inputs_meta = [task_description, input_example, label, output_format]
 
-    #generate meta prompts
-    
-    
+    input_map_meta = ["description", "inputs", "label", "outputs"]
+
+    name = dataset_meta["name"]
+    input_map = dataset_meta["input_format"]
+    output_key = dataset_meta["output"]
+    output_map = dataset_meta["output_map"]
+
+    loaded_data = load_data(name, "train")
+
+
     #take some part of the data for training, using some data-filtering mechanism. 
     #goal: to create a subset of data which can represent the distribution of the entire training set. 
-    filtered_data = filter_train(loaded_data)
+    filtered_data = filter_train(loaded_data, input_map, output_map=output_key) 
 
     i = 0
-    batch_size = 10
+    batch_size = 100
     retries = 0
     max_retries = 3
+    wrongs_batch = 4
     # training + feedback stage
     while True:
         preds = []
         summaries = []
+        feedback = ""
+        labels = []
+        diff_idxs = []
 
         if retries == 0:
-            sum_prompt, ver_prompt, exe_prompt = generate_using_metaprompt(model, prompt, sample_data)
+            meta_prompt = format_prompt(meta_prompt_tmpl, inputs_meta, input_map_meta)
+            json_prompts = gen_model.run_inference(meta_prompt)
+            sum_prompt, ver_prompt, exe_prompt = json_prompts["summarization_prompt"], json_prompts["evaluation_prompt"], json_prompts["execution_prompt"]
+
+            for j in filtered_data: 
+                #summarize
+                inputs = j["inputs"]
+                label = j["output"]
+                inputs_s = copy.deepcopy(inputs) + [label]
+                input_map_s = copy.deepcopy(input_map) + [output_key]
+                form_sum = format_prompt(sum_prompt, inputs_s, input_map_s)
+                summary = sum_model.run_inference(form_sum)
+
+                #execute using given summary
+                form_exec = format_prompt(exe_prompt, inputs, input_map)
+                predict = exe_model.run_inference(form_exec)
+
+                if args.task_type != "NER": 
+                    predict = load_pred(predict, output_map)
+
+                summaries.append(summary)
+                preds.append(predict)
+                labels.append(label)
+
+                #need one model to verify and drop unecessary patterns for the correct predictions.
         else:
-            sum_prompt = generate_using_metaprompt(model, prompt, sample_data)
-        #go over labels first
-        for sentence,label in filtered_data[i:i+batch_size]: 
-            summary = model.summarize_patterns(sentence, label, sum_prompt)
-            predict = model.pattern_work(sentence, exe_prompt, summary)
+            preds = []
+            labels = []
+            meta_prompt = format_prompt(meta_prompt_tmpl_w_feed, inputs_meta, input_map_meta, feedbacks)
+            json_prompts = gen_model.run_inference(meta_prompt)
+            sum_prompt = json_prompts["summarization_prompt"]
 
-            summaries.append(summary)
-            preds.append(predict)
+            for j in wrong_idxs: 
+                inputs = j["inputs"]
+                label = j["output"]
+                inputs_s = copy.deepcopy(inputs) + [label]
+                input_map_s = copy.deepcopy(input_map) + [output_key]
+                form_sum = format_prompt(sum_prompt, inputs_s, input_map_s)
+                summary = sum_model.run_inference(form_sum)
 
+                #execute using given summary
+                form_exec = format_prompt(exe_prompt, inputs, input_map)
+                predict = exe_model.run_inference(form_exec)
+
+                if args.task_type != "NER": 
+                    predict = load_pred(predict, output_map)
+
+                summaries.append(summary)
+                preds.append(predict)
+                labels.append(label)
+
+
+        for k in range(len(filtered_data)):
+            if preds[k] != label[k]:
+                diff_idxs.append(k)
+            
         #evaluate batch results
-        precision_batch, recall_batch, f1_score_batch = evaluate_ner(filtered_data[i:i+batch_size]["label"], preds)
+        if args.task_category == "NER": 
+            precision_batch, recall_batch, f1_score_batch = evaluate_ner(filtered_data["label"], preds)
+            eval_res = f1_score_batch
+        else:
+            eval_res = evaluate_preds(name, labels, preds)
 
         #if f1 score is too low (<80%), provide feedback to the first agent
-        if f1_score_batch < 0.9 and retries < max_retries: 
-            feedback_res = model.verify_patterns(filtered_data[i:i+batch_size]["sentences"], filtered_data[i:i+batch_size]["labels"], ver_prompt)
-            max_retries += 1
+        if  eval_res < 0.8 and retries < max_retries: 
+            #takes wrong samples （in batches）
+            
+            wrong_idxs = [filtered_data[i] for i in diff_idxs]
+            wrong_preds = [preds[i] for i in diff_idxs]
+
+            feedbacks = []
+            for i in range(0, wrong_idxs, wrongs_batch):
+                wrongs = ""
+                
+                for j in range(i,i+wrongs_batch):
+                    wrong_ex = "{inputs: " + str({k:v for (k,v) in zip(input_map, wrong_idxs[j]["inputs"])}) + ", outputs: " + wrong_idxs[j]["output"] + ", model_predict: " + wrong_preds[i] + "}"
+                    wrongs += wrong_ex + "\n"
+
+                
+                
+                ver_format = ver_prompt.format(task_desc=task_description, wrong_examples=wrongs)
+
+                feedback = ver_model.verify_patterns(ver_format)
+                feedbacks.append(feedback)
+
+            retries += 1
         else:
             i += batch_size
             retries = 0
 
 
 def run_multiagent_system_test(dataset_name, model_name, data, args):
+
     return
 
 def run_baseline_test(dataset_name, prompt, args):
     if args.model_name == "OSS":
         model = remote_LLM('http://10.244.50.59:1234/model', args.model_name)
     else:
-        model = local_LLM()
+        model = HF_LLM(args.model_name)
 
     if args.custom_data != '':
         loaded_data = []
@@ -147,10 +253,10 @@ def run_baseline_test(dataset_name, prompt, args):
         with open(args.custom_data) as f:
             for i, line in enumerate(f):
                 ct += 1
-                line_json = json.loads(line)
-                loaded_data.append(line_json)
-                if ct == limit:
-                    break
+                if ct >= limit:
+                    line_json = json.loads(line)
+                    loaded_data.append(line_json)
+                
 
     else:
         loaded_data = datasets.load_dataset(name=args.dataset_name, split="test")
@@ -164,9 +270,16 @@ def run_baseline_test(dataset_name, prompt, args):
         print("label: ", label)
 
         pred = model.predict_single(sentence, prompt)
-        pred = ast.literal_eval(pred)
-        print(pred)
-        preds.append(pred)
+        # pred = ast.literal_eval(pred)
+        # print(pred)
+        # preds.append(pred)
+        try:
+            pred = ast.literal_eval(pred)
+            print(pred)
+            preds.append(pred)
+        except Exception as e: 
+            print(pred, " caught error")
+            preds.append([])
     
     precision_batch, recall_batch, f1_score_batch = evaluate_ner(labels, preds)
     

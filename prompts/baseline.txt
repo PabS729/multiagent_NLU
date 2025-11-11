@@ -1,6 +1,0 @@
-Please identify Person, Organization, Location and Miscellaneous from the given sentence.
-
-sentence: {sentence}
-
-For each identified entity, format it like so: ['entity_instance_from_sentence', 'entity_type'] 
-Then, wrap all formatted entities in [].

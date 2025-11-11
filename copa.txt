@@ -1,0 +1,7 @@
+Please answer the given <question> with the <premise>, by choosing between <choice1> and <choice2>. You should answer with either "choice1" or "choice2".
+
+Please format your answer in JSON like so: {{"answer": "your_answer"}} 
+<question>: {question}
+<premise>: {premise}
+<choice1>: {choice1} 
+<choice2>: {choice2}

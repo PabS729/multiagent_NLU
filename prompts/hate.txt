@@ -1,0 +1,3 @@
+Check whether the given <text> contains forms of hate speech. Answer with "hate" or "non-hate". 
+Please answer with this JSON format: {{"answer": "your_answer"}} 
+<text>: {text}

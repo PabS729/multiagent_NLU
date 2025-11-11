@@ -1,0 +1,4 @@
+Please identify whether <sentence1> and <sentence2> are equivalent. Answer with "equivalent" or "not_equivalent". 
+Please answer with this JSON format: {{"answer": "your_answer"}} 
+<sentence1>: {sentence1}
+<sentence2>: {sentence2}

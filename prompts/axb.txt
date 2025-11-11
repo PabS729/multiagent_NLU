@@ -1,0 +1,4 @@
+Please identify whether <sentence1> entails or does not entail <sentence2>.. Answer with "entailment" or "not_entailment". 
+Please answer with this JSON format: {{"answer": "your_answer"}} 
+<sentence1>: {sentence1}
+<sentence2>: {sentence2}

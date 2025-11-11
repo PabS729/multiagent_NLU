@@ -1,0 +1,9 @@
+task_category: Natural language inference, task_description: Determine whether , task_input: (sentence1, sentence2), task_output: (entailment, not_entailment). output_format: 
+task_category: named entity extraction, task_description: Please identify Person, Organization, Location and Miscellaneous from the given sentence. task_input: (sentence1, sentence2), task_output: (), output_format: 
+task_category: True-False QA. task_description: 
+task_category: named entity extraction-fill in the blanks, task_description: Please read the <passage> carefully and consider filling in the @placeholder in <query> given the choices from <entities>. 
+task_input: <passage>: {passage} <query>: {query} <entities>: {entities}, task_output: You must answer with only one item from <entities>. e.g.  output_format: JSON, {['entity_instance']},
+
+
+
+

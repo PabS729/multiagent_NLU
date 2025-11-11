@@ -1,0 +1,638 @@
+{"input": ["class", "An emerging professional class.", "Apologizing for losing your temper, even though you were badly provoked, showed real class."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["stripe", "Businessmen of every stripe joined in opposition to the proposal.", "They earned their stripes in Kuwait."], "output": "{\"answer\": \"no\"}"}
+{"input": ["check", "As he called the role he put a check mark by each student's name.", "A check on its dependability under stress."], "output": "{\"answer\": \"no\"}"}
+{"input": ["brush", "She gave her hair a quick brush.", "The dentist recommended two brushes a day."], "output": "{\"answer\": \"no\"}"}
+{"input": ["acquisition", "The child's acquisition of language.", "That graphite tennis racquet is quite an acquisition."], "output": "{\"answer\": \"no\"}"}
+{"input": ["thing", "A thing of the spirit.", "Things of the heart."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["minister", "The minister said a prayer on behalf of the entire congregation.", "Clergymen are usually called ministers in Protestant churches."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["easiness", "The very easiness of the deed held her back.", "There was an easiness between them."], "output": "{\"answer\": \"no\"}"}
+{"input": ["contradistinction", "Sculpture in contradistinction to painting.", "We used hamburgers and soda in contradistinction to healthy food."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["home", "Canadian tariffs enabled United States lumber companies to raise prices at home.", "His home is New Jersey."], "output": "{\"answer\": \"no\"}"}
+{"input": ["inclination", "The alkaline inclination of the local waters.", "An inclination of his head indicated his agreement."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["assurance", "An assurance of help when needed.", "His assurance in his superiority did not make him popular."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["save", "The relief pitcher got credit for a save.", "The goalie made a brilliant save."], "output": "{\"answer\": \"no\"}"}
+{"input": ["bang", "He got a bang on the head.", "They got a great bang out of it."], "output": "{\"answer\": \"no\"}"}
+{"input": ["tremor", "She felt a tremor in her stomach before going on stage.", "Did you feel the tremor this morning?"], "output": "{\"answer\": \"yes\"}"}
+{"input": ["response", "This situation developed in response to events in Africa.", "His responses have slowed with age."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["touch", "He could not touch the meaning of the poem.", "Helen Keller felt the physical world by touching people and objects around her."], "output": "{\"answer\": \"no\"}"}
+{"input": ["hail", "Hail a cab.", "He was hailed as a hero."], "output": "{\"answer\": \"no\"}"}
+{"input": ["rail", "He was concerned with rail safety.", "He traveled by rail."], "output": "{\"answer\": \"no\"}"}
+{"input": ["obstacle", "Lack of imagination is an obstacle to one's advancement.", "The poverty of a district is an obstacle to good education."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["socialization", "Force socialization rarely creates strong friendships, but there are exceptions.", "There was too much socialization with the enlisted men."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["rank", "The strike was supported by the union rank and file.", "He rose from the ranks to become a colonel."], "output": "{\"answer\": \"no\"}"}
+{"input": ["bend", "The stick does not bend.", "Bend your knees."], "output": "{\"answer\": \"no\"}"}
+{"input": ["buy", "$50 won't even buy a dress.", "FMC has bought 565."], "output": "{\"answer\": \"no\"}"}
+{"input": ["youth", "Youth everywhere rises in revolt.", "Her youth and beauty is what attracted him to her."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["lay", "To lay a tax on land.", "Lay a responsibility on someone."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["leave", "Leave lots of time for the trip.", "This leaves no room for improvement."], "output": "{\"answer\": \"no\"}"}
+{"input": ["aliyah", "Students making aliyah.", "He was called on for an aliyah."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["violate", "Violate the sanctity of the church.", "This sentence violates the rules of syntax."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["pencil", "An eyebrow pencil.", "This artist's favorite medium is pencil."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["invasion", "An invasion of locusts.", "An invasion of tourists."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["answer", "Answer the question.", "She didn't want to answer."], "output": "{\"answer\": \"no\"}"}
+{"input": ["smoothness", "The weather system of the Pacific is determined by the uninterrupted smoothness of the ocean.", "His oily smoothness concealed his guilt from the police."], "output": "{\"answer\": \"no\"}"}
+{"input": ["adhocracy", "The need for informational flexibility can lead to adhocracy.", "The choice between bureaucracy and adhocracy represents a common dilemma."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["allowance", "The captain was obliged to allowance his crew.", "Our provisions were allowanced."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["lie", "Lie down on the bed until you feel better.", "She lied when she told me she was only 29."], "output": "{\"answer\": \"no\"}"}
+{"input": ["shtik", "He's a shtik crazy.", "How did you ever fall for a shtik like that?"], "output": "{\"answer\": \"no\"}"}
+{"input": ["squeaker", "Which hinge is the squeaker?", "Those sneakers are squeakers."], "output": "{\"answer\": \"no\"}"}
+{"input": ["touch", "He has a touch of rheumatism.", "He longed for the touch of her hand."], "output": "{\"answer\": \"no\"}"}
+{"input": ["walk", "After the blizzard he shoveled the front walk.", "Walking is a healthy form of exercise."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["average", "If you average 10, 20 and 24, you get 18.", "The number of hours I work per work averages out to 40."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["get", "The operator couldn't get Kobe because of the earthquake.", "I'll get this finished by lunchtime."], "output": "{\"answer\": \"no\"}"}
+{"input": ["part", "The government must do its part.", "Religions in all parts of the world."], "output": "{\"answer\": \"no\"}"}
+{"input": ["earshot", "I'll row out on the lake but stay within earshot.", "The children were told to stay within earshot."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["strike", "Strike an arc.", "The clock struck midnight."], "output": "{\"answer\": \"no\"}"}
+{"input": ["department", "His work established a new department of literature.", "Baking is not my department."], "output": "{\"answer\": \"no\"}"}
+{"input": ["border", "The rug had a wide blue border.", "The borders of the garden."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["maneuver", "He made a great maneuver.", "Parallel parking can be a difficult maneuver."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["look", "A look of triumph.", "His look was fixed on her eyes."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["excite", "Excite the neurons.", "The fireworks which opened the festivities excited anyone present."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["landing", "The plane made a smooth landing.", "His landing on his feet was catlike."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["strand", "A strand of pearls.", "He tried to pick up the strands of his former life."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["shot", "He trained at putting the shot.", "The shot flew twenty metres, and nearly landed on the judge's foot."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["spread", "The invaders spread their language all over the country.", "A big oil spot spread across the water."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["custody", "He was mistreated while in police custody.", "He is in the custody of police."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["clime", "Plants from a cold clime travel best in winter.", "After working hard all of his life, Max retired to warmer climes in Florida."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["clap", "The children began to clap in time with the music.", "The big bird clapped its wings."], "output": "{\"answer\": \"no\"}"}
+{"input": ["deliberation", "It was the deliberation of his act that was insulting.", "The deliberations of the jury."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["corner", "He tripled to the rightfield corner.", "The southeastern corner of the Mediterranean."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["misdirect", "Misdirect the letter.", "The pedestrian misdirected the out-of-town driver."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["say", "What does the law say?", "The clock says noon."], "output": "{\"answer\": \"no\"}"}
+{"input": ["configure", "Configure a plane for a combat mission.", "Configure my new computer."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["pay", "He wasted his pay on drink.", "Many employers have rules designed to keep employees from comparing their pays."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["tap", "Tap a keg of beer.", "Tap a maple tree for its syrup."], "output": "{\"answer\": \"no\"}"}
+{"input": ["sexualize", "Some languages sexualize all nouns and do not have a neuter gender.", "The god was sexualized and married to another god."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["board", "The board has seven members.", "He got out the board and set up the pieces."], "output": "{\"answer\": \"no\"}"}
+{"input": ["update", "I need to update my records to take account of the most recent transaction.", "We updated the kitchen in the old house."], "output": "{\"answer\": \"no\"}"}
+{"input": ["reinstatement", "Her reinstatement to her former office followed quickly.", "Many people are unhappy with the sacking of the chief constable and demand his immediate reinstatement."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["falsity", "The belief that the world is flat is a falsity.", "Argument could not determine its truth or falsity."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["escalation", "Higher wages caused an escalation of prices.", "There was a gradual escalation of hostilities."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["sophistication", "He practiced the art of sophistication upon reason.", "Understanding affine transformations requires considerable mathematical sophistication."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["bridge", "Her glasses left marks on the bridge of her nose.", "Rugby players often break the bridge of their noses."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["watch", "Put a little baking soda in some vinegar and watch what happens.", "The world is watching Sarajevo."], "output": "{\"answer\": \"no\"}"}
+{"input": ["grind", "Grind lenses for glasses and cameras.", "Grind an axe."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["avail", "It will avail them to dispose of their booty.", "He availed himself of the available resources."], "output": "{\"answer\": \"no\"}"}
+{"input": ["excuse", "That thing is a poor excuse for a gingerbread man. Hasn't anyone taught you how to bake?", "He's a sorry excuse of a doctor."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["denizen", "The bald eagle is a denizen of the northern part of the state.", "The giant squid is one of many denizens of the deep."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["need", "I need him to be nice.", "I needed him to go."], "output": "{\"answer\": \"no\"}"}
+{"input": ["wine", "She ordered some wine for the meal.", "Wine is stronger than beer."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["plan", "Plan an attack.", "He plans to be in graduate school next year."], "output": "{\"answer\": \"no\"}"}
+{"input": ["bite", "Gunny invariably tried to bite her.", "As soon as you bite that sandwich, you'll know how good it is."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["sense", "Particle detectors sense ionization.", "She immediately sensed her disdain."], "output": "{\"answer\": \"no\"}"}
+{"input": ["explanation", "The explanation was very simple.", "The explanation was long and drawn-out."], "output": "{\"answer\": \"no\"}"}
+{"input": ["slip", "Slip into something comfortable.", "My grades are slipping."], "output": "{\"answer\": \"no\"}"}
+{"input": ["relief", "He has been on relief for many years.", "Was the relief supposed to be protection from future harm or compensation for past injury?"], "output": "{\"answer\": \"no\"}"}
+{"input": ["authority", "She lost all her respect and authority after turning up drunk to the meeting.", "This book is the final authority on the life of Milton."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["forge", "We decided to forge ahead with our plans even though our biggest underwriter backed out.", "He forged ahead."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["cross", "A mule is a cross between a horse and a donkey.", "That is his cross to bear."], "output": "{\"answer\": \"no\"}"}
+{"input": ["shower", "The game was interrupted by a brief shower.", "A little shower of rose petals."], "output": "{\"answer\": \"no\"}"}
+{"input": ["crisis", "They went bankrupt during the economic crisis.", "After the crisis the patient either dies or gets better."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["diet", "The diet of the Giant Panda consists mainly of bamboo.", "He's been reading a steady diet of nonfiction for the last several years."], "output": "{\"answer\": \"no\"}"}
+{"input": ["recrudescence", "A recrudescence of racism.", "A recrudescence of the symptoms."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["leave", "Leave your child the nurse's care.", "He left the decision to his deputy."], "output": "{\"answer\": \"no\"}"}
+{"input": ["incorporate", "Incorporate this document with those pertaining to the same case.", "The company was incorporated in 1980."], "output": "{\"answer\": \"no\"}"}
+{"input": ["promulgation", "The promulgation was written in English.", "His promulgation of the policy proved to be premature."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["hostility", "He could not conceal his hostility.", "He could no longer contain his hostility."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["bottom", "They started at the bottom of the hill.", "They did much of their overseas trade in foreign bottoms."], "output": "{\"answer\": \"no\"}"}
+{"input": ["mate", "He's my best mate.", "I'm going to the pub with a few mates."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["distribute", "The publisher wants to distribute the book in Asia.", "The function distributes the values evenly."], "output": "{\"answer\": \"no\"}"}
+{"input": ["remover", "Rust remover.", "Paint remover."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["forwarding", "The forwarding of resumes to the personnel department.", "The forwarding of mail to a new address is done automatically."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["worship", "They worship in the traditional manner.", "Many Hindus worship Shiva."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["play", "They gave full play to the artist's talent.", "It was all done in play."], "output": "{\"answer\": \"no\"}"}
+{"input": ["flush", "Flush the meadows.", "The sky flushed with rosy splendor."], "output": "{\"answer\": \"no\"}"}
+{"input": ["probation", "Probation is part of the sentencing process.", "You'll be on probation for first six months. After that, if you work out, they'll hire you permanently."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["military", "Their military is the largest in the region.", "He spent six years in the military."], "output": "{\"answer\": \"no\"}"}
+{"input": ["consult", "They had to consult before arriving at a decision.", "Consult your local broker."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["education", "A girl's education was less important than a boy's.", "Education is a preparation for life."], "output": "{\"answer\": \"no\"}"}
+{"input": ["liberty", "At liberty to choose whatever occupation one wishes.", "Liberty to think or feel or do just as one pleases."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["date", "Scientists often can not date precisely archeological or prehistorical findings.", "To date the building of the pyramids."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["vary", "Prices vary.", "His moods vary depending on the weather."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["breeze", "The breeze rustled the papers on her desk.", "The breeze was cooled by the lake."], "output": "{\"answer\": \"no\"}"}
+{"input": ["subsidy", "A subsidy for research in artificial intelligence.", "Manufacturing firms are supported by government subsidies in some countries."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["wrong", "Injustice is a heinous wrong.", "He feels that you are in the wrong."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["literature", "One aspect of Waterloo has not yet been treated in the literature.", "The technical literature."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["banish", "Banish bad thoughts.", "Banish gloom."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["carve", "Carve one's name into the bark.", "That chisel carved the statue."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["caller", "-- Who's the caller?", "There were so many callers that he finally disconnected the telephone."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["drag", "Time seems to drag when you're waiting for a bus.", "The speech dragged on for two hours."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["breakdown", "After so much stress, he suffered a breakdown and simply gave up.", "His warning came after the breakdown of talks in London."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["lecture", "Did you ever lecture at Harvard?", "She lectured to the class about her travels."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["circumference", "A danger to all races over the whole circumference of the globe.", "He had walked the full circumference of his land."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["choke", "Choke a carburetor.", "This neckband is choking the cat."], "output": "{\"answer\": \"no\"}"}
+{"input": ["calibrate", "Calibrate a gun.", "He calibrated the thermometer for the Celsius scale."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["fail", "Did I fail the test?", "She studied hard but failed nevertheless."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["push", "You need to push quite hard to get this door open.", "Nora pushed through the crowd."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["drop", "It was a miracle that he survived the drop from that height.", "That was a long drop, but fortunately I didn't break any bones."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["char", "\"Among other native delicacies, they give you fresh char.\".", "\"I had to scrub the kitchen today, because the char couldn't come\"."], "output": "{\"answer\": \"no\"}"}
+{"input": ["connection", "The bus was late so he missed his connection at Penn Station and had to wait six hours for the next train.", "The plane was late and he missed his connection in Atlanta."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["urgency", "They departed hurriedly because of some great urgency in their affairs.", "I'll be there, barring any urgencies."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["contact", "I am trying to contact my sister.", "He never contacted his children after he emigrated to Australia."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["experience", "A surprising experience.", "Experience is the best teacher."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["segment", "Segment a compound word.", "Segment an orange."], "output": "{\"answer\": \"no\"}"}
+{"input": ["parade", "The floats and horses in the parade were impressive, but the marching bands were really amazing.", "She made a parade of her sorrows."], "output": "{\"answer\": \"no\"}"}
+{"input": ["power", "He needed a lot of power to hit the ball out of the stadium.", "The mysterious presence of an evil power."], "output": "{\"answer\": \"no\"}"}
+{"input": ["affiliation", "A valuable financial affiliation.", "Welcomed the affiliation of the research center with the university."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["allowance", "My weekly allowance of two eggs.", "Travel allowance."], "output": "{\"answer\": \"no\"}"}
+{"input": ["branch", "We opened a new branch in London.", "Our main branch is downtown."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["delay", "Instant replay caused too long a delay.", "The delay before the echo of a sound."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["addition", "The addition of a leap day every four years.", "The addition of a bathroom was a major improvement."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["liberate", "To liberate the mind from prejudice.", "To liberate gases."], "output": "{\"answer\": \"no\"}"}
+{"input": ["bell", "Bell cows.", "Who will bell the cat?"], "output": "{\"answer\": \"no\"}"}
+{"input": ["disable", "Disable this command on your computer.", "He was disabled in a car accident."], "output": "{\"answer\": \"no\"}"}
+{"input": ["listen", "Please listen carefully as I explain.", "I like to listen to music."], "output": "{\"answer\": \"no\"}"}
+{"input": ["stop", "Stop a car.", "Stop the thief."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["figure", "Elections figure prominently in every government program.", "How do the elections figure in the current pattern of internal politics?"], "output": "{\"answer\": \"yes\"}"}
+{"input": ["marriage", "A marriage of ideas.", "The marriage of music and dance."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["dimple", "The accident created a dimple in the hood of the car.", "There are approximately 336 dimples on a golf ball."], "output": "{\"answer\": \"no\"}"}
+{"input": ["trailer", "The trailer for that movie makes it seem like it would be fun.", "At the end of the day, we put the snowmobiles back on the trailer."], "output": "{\"answer\": \"no\"}"}
+{"input": ["intention", "The intention of this legislation is to boost the economy.", "Good intentions are not enough."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["mandate", "Mandate a colony.", "The new director of the school board mandated regular tests."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["pull", "It was a long pull but we made it.", "He was sidelined with a hamstring pull."], "output": "{\"answer\": \"no\"}"}
+{"input": ["glaze", "Glaze the bread with eggwhite.", "The potter glazed the dishes."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["sight", "He was a familiar sight on the television.", "They went to Paris to see the sights."], "output": "{\"answer\": \"no\"}"}
+{"input": ["keep", "Can I keep my old stuffed animals?", "She kept her maiden name after she married."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["plenty", "There was plenty of food for everyone.", "It must have cost plenty."], "output": "{\"answer\": \"no\"}"}
+{"input": ["oppression", "The tyrant's oppression of the people.", "The oppression of the poor by the aristocracy was one cause of the French Revolution."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["strain", "Don't strain your mind too much.", "The rope strained when the weight was attached."], "output": "{\"answer\": \"no\"}"}
+{"input": ["sensation", "The news caused a sensation.", "A sensation of touch."], "output": "{\"answer\": \"no\"}"}
+{"input": ["step", "Always a step behind.", "Keep in step with the fashions."], "output": "{\"answer\": \"no\"}"}
+{"input": ["shoot", "Shoot cloth.", "Shoot a star."], "output": "{\"answer\": \"no\"}"}
+{"input": ["hook", "Hook a fish.", "He hooked a snake accidentally, and was so scared he dropped his rod into the water."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["homogenization", "The homogenization of cream.", "The network's homogenization of political news."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["building", "The entire building complained about the noise.", "The building of the bridge will be completed in a couple of weeks."], "output": "{\"answer\": \"no\"}"}
+{"input": ["gown", "The relations between town and gown are always sensitive.", "In the perennial town versus gown battles, townies win some violent battles, but the collegians are winning the war."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["delight", "The new car is a delight.", "His delight to see her was obvious to all."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["solemnize", "The couple chose to solemnize their relationship in a secular ceremony, instead of having a wedding.", "The King solemnized this day of morning."], "output": "{\"answer\": \"no\"}"}
+{"input": ["scallop", "Scallop the hem of the dress.", "Scallop the meat."], "output": "{\"answer\": \"no\"}"}
+{"input": ["success", "His success in the marathon was unexpected.", "The election was a remarkable success for the Whigs."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["refresher", "The nap was a welcome refresher.", "He stopped at the bar for a quick refresher."], "output": "{\"answer\": \"no\"}"}
+{"input": ["block", "Block the signals emitted by this station.", "The thick curtain blocked the action on the stage."], "output": "{\"answer\": \"no\"}"}
+{"input": ["writing", "Writing was a form of therapy for him.", "The idea occurs with increasing frequency in Hemingway's writings."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["studio", "His studio was cramped when he began as an artist.", "You don't need a studio to make a passport photograph."], "output": "{\"answer\": \"no\"}"}
+{"input": ["harass", "Harass the enemy.", "This man harasses his female co-workers."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["cost", "The average cost of a new house is twice as much as t was 20 years ago.", "The total cost of the new complex was an estimated $1.5 million."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["dip", "Dip the brush into the paint.", "She dipped her knee."], "output": "{\"answer\": \"no\"}"}
+{"input": ["fuel", "Fuel aircraft, ships, and cars.", "Fuel the debate on creationism."], "output": "{\"answer\": \"no\"}"}
+{"input": ["frame", "A lace frame.", "His starved flesh hung loosely on his once imposing frame."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["segregate", "Experiments show clearly that genes segregate.", "Many towns segregated into new counties."], "output": "{\"answer\": \"no\"}"}
+{"input": ["sound", "The main body of the sound ran parallel to the coast.", "He strained to hear the faint sounds."], "output": "{\"answer\": \"no\"}"}
+{"input": ["pronunciation", "That is the correct pronunciation.", "The pronunciation of Chinese is difficult for foreigners."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["utter", "Utter counterfeit currency.", "He uttered strange sounds that nobody could understand."], "output": "{\"answer\": \"no\"}"}
+{"input": ["joy", "A joy to behold.", "The joys and demands of parenthood."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["dinner", "Guests should never be late to a dinner party.", "On Sundays they had a large dinner when they returned from church."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["mess", "I mess with the wardroom officers.", "The afternoon breeze messed up my hair."], "output": "{\"answer\": \"no\"}"}
+{"input": ["reverence", "The French treat food with gentle reverence.", "The Chinese reverence for the dead."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["load", "Load a car.", "Load the truck with hay."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["floss", "She flossed her teeth.", "The hygienist flossed my teeth."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["resolution", "Printing at higher resolution will cause a reduction in performance.", "They never did achieve a final resolution of their differences."], "output": "{\"answer\": \"no\"}"}
+{"input": ["gauntlet", "Threw down the gauntlet.", "Took up the gauntlet."], "output": "{\"answer\": \"no\"}"}
+{"input": ["board", "Room and board.", "He nailed boards across the windows."], "output": "{\"answer\": \"no\"}"}
+{"input": ["eliminate", "Let's eliminate the course on Akkadian hieroglyphics.", "This possibility can be eliminated from our consideration."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["stab", "He took a stab at forecasting.", "She felt a stab of excitement."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["kick", "The kick must be synchronized with the arm movements.", "A sidecar is a smooth drink but it has a powerful kick."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["professionalization", "The professionalization of warfare.", "The professionalization of American sports."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["rush", "The linebackers were ready to stop a rush.", "Come back after the rush."], "output": "{\"answer\": \"no\"}"}
+{"input": ["tipper", "A generous tipper.", "The Americans are among the most generous tippers in the world."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["seem", "I seem to be misunderstood by everyone.", "There seems no reason to go ahead with the project now."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["bull", "To bull railroad bonds.", "He bulled his way in."], "output": "{\"answer\": \"no\"}"}
+{"input": ["horse", "A clothes horse.", "500 horse led the attack."], "output": "{\"answer\": \"no\"}"}
+{"input": ["section", "The history of this work is discussed in the next section.", "A graduate student taught sections for the professor's lecture course."], "output": "{\"answer\": \"no\"}"}
+{"input": ["shake", "Shake the salt out of the salt shaker.", "His hands shook."], "output": "{\"answer\": \"no\"}"}
+{"input": ["button", "The politician wore a bright yellow button with the slogan \"Vote Smart\" emblazoned on it.", "They passed out campaign buttons for their candidate."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["arousal", "To influence the arousal of brain and behavior.", "The purpose of art is the arousal of emotions."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["pick", "To pick rags.", "Don't always pick on your little brother."], "output": "{\"answer\": \"no\"}"}
+{"input": ["reline", "Reline the paper.", "The old fur coat must be relined."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["vote", "I vote that we all go home.", "She voted for going to the Chinese restaurant."], "output": "{\"answer\": \"no\"}"}
+{"input": ["burn", "Burn a CD.", "My eyes are burning."], "output": "{\"answer\": \"no\"}"}
+{"input": ["agency", "The superintendence and agency of Providence in the natural world. -- Woodward.", "The Central Intelligence Agency."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["nude", "They swam in the nude.", "The marketing rule 'nude sells' spread from verbal to visual mainstream media in the 20th century."], "output": "{\"answer\": \"no\"}"}
+{"input": ["cup", "He put the cup back in the saucer.", "The handle of the cup was missing."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["largeness", "The might have repercussions of unimaginable largeness.", "A man distinguished by the largeness and scope of his views."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["capacity", "Limited runway capacity.", "He should be retained in his present capacity at a higher salary."], "output": "{\"answer\": \"no\"}"}
+{"input": ["inject", "Inject heroin.", "He injected new life into the performance."], "output": "{\"answer\": \"no\"}"}
+{"input": ["advantage", "The enemy had the advantage of a more elevated position.", "The experience gave him the advantage over me."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["story", "The book tells the story of two roommates.", "Disney's stories entertain adults as well as children."], "output": "{\"answer\": \"no\"}"}
+{"input": ["reappearance", "The reappearance of Halley's comet.", "His reappearance as Hamlet has been long awaited."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["characterize", "You can characterize his behavior as that of an egotist.", "This poem can be characterized as a lament for a dead lover."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["club", "Each club played six home games with teams in its own division.", "He played the drums at a jazz club."], "output": "{\"answer\": \"no\"}"}
+{"input": ["square", "The carpenter who built this room must have lost his square.", "64 is the square of 8."], "output": "{\"answer\": \"no\"}"}
+{"input": ["dig", "They set up camp next to the dig.", "She takes a dig at me every chance she gets."], "output": "{\"answer\": \"no\"}"}
+{"input": ["association", "Conditioning is a form of learning by association.", "Many close associations with England."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["chemistry", "The chemistry of indigo.", "The chemistry of iron."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["sequence", "He played the trumps in sequence.", "The doctor saw a sequence of patients."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["impregnation", "The impregnation of wood with preservative.", "The impregnation, whatever it was, had turned the rock blue."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["act", "She wants to act Lady Macbeth, but she is too young for the role.", "I started acting at the age of eleven in my local theatre."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["recruit", "Recruit new soldiers.", "The lab director recruited an able crew of assistants."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["acquaintance", "I know of the man; but have no acquaintance with him.", "I have trouble remembering the names of all my acquaintances."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["bag", "Bag a few pheasants.", "We bagged three deer yesterday."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["last", "Summer seems to last longer each year.", "The bad weather lasted for three days."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["finalize", "Let's finalize the proposal.", "As soon as we get the plane tickets, we'll finalize our reservations with the hotel."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["admit", "Admit someone to the profession.", "She was admitted to the New Jersey Bar."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["office", "An executive or judical office.", "During his first year in office."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["view", "They look the same in outward view.", "The most desirable feature of the park are the beautiful views."], "output": "{\"answer\": \"no\"}"}
+{"input": ["tool", "He was a tool, no more than a pawn to her.", "I don't have the right tools to start fiddling around with the engine."], "output": "{\"answer\": \"no\"}"}
+{"input": ["heartbeat", "The policeman waited for a heartbeat in vain.", "He alone gives me such heartbeats."], "output": "{\"answer\": \"no\"}"}
+{"input": ["renovate", "This will renovate my spirits.", "They renovated the ceiling of the Sistine Chapel."], "output": "{\"answer\": \"no\"}"}
+{"input": ["branch", "A branch of Congress.", "We have branches in all major suburbs."], "output": "{\"answer\": \"no\"}"}
+{"input": ["tree", "Her dog likes to tree squirrels.", "This lot should be treed so that the house will be shaded in summer."], "output": "{\"answer\": \"no\"}"}
+{"input": ["curd", "Bean curd.", "Lemon curd."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["hell", "War is hell.", "The hell of battle."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["tradecraft", "The CIA chief of station accepted responsibility for his agents' failures of tradecraft.", "Instructional designers are trained in something that might be called tradecraft."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["believe", "We didn't believe his stories from the War.", "I believed his report."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["crop", "The annual crop of students brings many new ideas.", "The latest crop of fashions is about to hit the stores."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["glow", "A glow of regret.", "The glow of new love."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["wrangle", "Wrangle horses.", "The bar keeper threw them out, but they continued to wrangle on down the street."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["foundation", "He lacks the foundation necessary for advanced study.", "The Wikimedia Foundation, Inc. is the parent organization of the Wiktionary collaborative project."], "output": "{\"answer\": \"no\"}"}
+{"input": ["render", "Render the brick walls in the den.", "The face of the child is rendered with much tenderness in this painting."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["date", "His date never stopped talking.", "The date for pleading."], "output": "{\"answer\": \"no\"}"}
+{"input": ["occurrence", "A disease of frequent occurrence.", "The occurrence (or presence) of life on other planets."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["indent", "Indent the documents.", "Indent the paragraphs of a letter."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["wake", "There's no weeping at an Irish wake.", "The motorboat's wake capsized the canoe."], "output": "{\"answer\": \"no\"}"}
+{"input": ["ash", "The woods planted in ash will see a different mix of species.", "The ash trees are dying off."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["preponderance", "The preponderance of good over evil.", "The preponderance of wealth and power."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["gig", "They played a gig in New Jersey.", "Our guitar player had another gig so we had to get a sub."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["forbid", "I forbid you to call me late at night.", "The rules forbid it."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["cognate", "English is a cognate of Greek, German, Russian and Persian.", "English and, Russian, Icelandic and Irish are all cognates."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["house", "He counted the house.", "The house applauded."], "output": "{\"answer\": \"no\"}"}
+{"input": ["elapse", "He allowed a month to elapse before beginning the work.", "Several days elapsed before they met again."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["license", "The intolerable license with which the newspapers break ... the rules of decorum -- Edmund Burke.", "When liberty becomes license dictatorship is near -- Will Durant."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["harbour", "The city has an excellent natural harbour.", "The neighbourhood is a well-known harbour for petty thieves."], "output": "{\"answer\": \"no\"}"}
+{"input": ["abuse", "All abuse, whether physical, verbal, psychological or sexual, is bad.", "The child showed signs of physical abuse."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["extension", "The dancer was praised for her uncanny extension.", "Good extension comes from a combination of training and native ability."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["domesticity", "Making a hobby of domesticity.", "A royal family living in unpretentious domesticity."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["strangle", "The imperialist nation wanted to strangle the free trade between the two small countries.", "A man in Boston has been strangling several dozen prostitutes."], "output": "{\"answer\": \"no\"}"}
+{"input": ["bye", "He had a bye in the first round.", "Craig's Crew plays the bye next week."], "output": "{\"answer\": \"no\"}"}
+{"input": ["round", "The round of the seasons.", "The postman's rounds."], "output": "{\"answer\": \"no\"}"}
+{"input": ["distance", "I could see it in the distance.", "The distance from New York to Chicago."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["load", "That's a load off my mind.", "I'm worried that the load on that transformer will be too high."], "output": "{\"answer\": \"no\"}"}
+{"input": ["repair", "One can never fully repair the suffering and losses of the Jews in the Third Reich.", "She repaired her TV set."], "output": "{\"answer\": \"no\"}"}
+{"input": ["streak", "A streak of wildness.", "He has a stubborn streak."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["revenge", "Indifference is the sweetest revenge.", "When I left my wife, she tried to set fire to the house in revenge."], "output": "{\"answer\": \"no\"}"}
+{"input": ["dad", "He hadn't seen his dad in years.", "Dad, happy Father's Day!"], "output": "{\"answer\": \"yes\"}"}
+{"input": ["fuel", "More fuel is needed during the winter months.", "They developed alternative fuels for aircraft."], "output": "{\"answer\": \"no\"}"}
+{"input": ["fondler", "The woman charged that her jailer was a fondler.", "Not all fondlers are sexual perverts."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["flip", "I'd flip if anyone broke my phone.", "He flipped when he heard that he was accepted into Princeton University."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["draw", "The luck of the draw.", "They anticipated a tough draw."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["poster", "I saw a poster for it on the side of a bus.", "A poster advertised the coming attractions."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["cuisine", "The restaurant is noted for its excellent cuisine.", "French cuisine is considered to be one of the world's most refined and elegant styles of cooking."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["tap", "Tap a cask of wine.", "He tapped a new barrel of beer."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["catch", "I would love to have dinner but I have to catch a plane.", "We caught something of his theory in the lecture."], "output": "{\"answer\": \"no\"}"}
+{"input": ["ticket", "This car could be just the ticket for a small family.", "Joe will be running on an anti-crime ticket."], "output": "{\"answer\": \"no\"}"}
+{"input": ["way", "They didn't have much in the way of clothing.", "We went our separate ways."], "output": "{\"answer\": \"no\"}"}
+{"input": ["triangulate", "Triangulate the piece of cardboard.", "The land surveyor worked by triangulating the plot."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["invite", "Can I invite you for dinner on Sunday night?", "The organizers invite submissions of papers for the conference."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["gesture", "A political gesture.", "A gesture of defiance."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["average", "He is about average in height.", "The snowfall this month is below average."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["exalt", "These paintings exalt the imagination.", "The man was exalted from a humble carpenter to a minister."], "output": "{\"answer\": \"no\"}"}
+{"input": ["comb", "Comb the wool.", "Comb your hair before dinner."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["upset", "Truman upset Dewey in the 1948 US presidential election.", "The foreign team upset the local team."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["convey", "To convey information.", "She conveyed the message to me."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["send", "Send me your latest results.", "Nora sent the book from Paris."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["death", "The animal died a painful death.", "He seemed more content in death than he had ever been in life."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["preparation", "He left the preparation of meals to his wife.", "The resolution of one dissonance is often the preparation for another dissonance."], "output": "{\"answer\": \"no\"}"}
+{"input": ["absorb", "Absorb the costs for something.", "He absorbed the knowledge or beliefs of his tribe."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["donate", "Some of the members may donate privately.", "She donates to her favorite charity every month."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["eccentricity", "For an ellipse, the eccentricity is the ratio of the distance from the center to a focus divided by the length of the semi-major axis.", "A circle is an ellipse with zero eccentricity."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["fiddle", "Don't fiddle with the screws.", "She always fiddles with her van on the weekend."], "output": "{\"answer\": \"no\"}"}
+{"input": ["taste", "To ask at that particular time was the ultimate in bad taste.", "He got a taste of life on the wild side."], "output": "{\"answer\": \"no\"}"}
+{"input": ["point", "Point a gun.", "It's rude to point at other people."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["nightlife", "In the summer the nightlife shifts to the dance clubs.", "A futile search for intelligent nightlife."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["stress", "Some people put the stress on the first syllable of \"controversy\"; others put it on the second.", "The intensity of stress is expressed in units of force divided by units of area."], "output": "{\"answer\": \"no\"}"}
+{"input": ["piggyback", "An amendment to piggyback the current law.", "He piggybacked her child so she could see the show."], "output": "{\"answer\": \"no\"}"}
+{"input": ["induction", "He was ordered to report for induction into the army.", "The induction of an anesthetic state."], "output": "{\"answer\": \"no\"}"}
+{"input": ["modify", "Please modify this letter to make it more polite.", "He modified his views on same-gender marriage."], "output": "{\"answer\": \"no\"}"}
+{"input": ["form", "By adding \"-ness\", you can form a noun from an adjective.", "Form cylinders from the dough."], "output": "{\"answer\": \"no\"}"}
+{"input": ["cost", "These shoes cost $100.", "The bill will cost them 500 million dollars."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["button", "Pat pushed the button marked \"shred\" on the blender.", "The elevator was operated by push buttons."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["confusion", "The army retreated in confusion.", "A confusion of impressions."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["mess", "The house was a mess.", "My boss dumped a whole mess of projects on my desk today."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["blockage", "There was a blockage in the sewer, so we called out the plumber.", "We had to call a plumber to clear out the blockage in the drainpipe."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["partnership", "The action teams worked in partnership with the government.", "Effective language learning is a partnership between school, teacher and student."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["gap", "Gap between income and outgo.", "The exploring party went through the high gap in the mountains."], "output": "{\"answer\": \"no\"}"}
+{"input": ["touch", "Please can I have a look, if I promise not to touch?", "Carrie touched his shoulder with the stick."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["delta", "The Nile delta.", "The Mississippi River delta."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["foot", "We went there by foot because we could not afford a taxi.", "There is a lot of foot traffic on this street."], "output": "{\"answer\": \"no\"}"}
+{"input": ["accumulate", "He wishes to accumulate a sum of money.", "Journals are accumulating in my office."], "output": "{\"answer\": \"no\"}"}
+{"input": ["metadata", "Most websites contain metadata to tell the computer how to lay the words out on the screen.", "A library catalog is metadata because it describes publications."], "output": "{\"answer\": \"no\"}"}
+{"input": ["ruin", "This behavior will ruin your chances of winning the election.", "The country lay ruined after the war."], "output": "{\"answer\": \"no\"}"}
+{"input": ["daughter", "I already have a son, so I would like to have a daughter.", "Her daughter cared for her in her old age."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["accession", "Accession to such demands would set a dangerous precedent.", "The librarian shelved the new accessions."], "output": "{\"answer\": \"no\"}"}
+{"input": ["loose", "Let loose mines.", "Loose terrible plagues upon humanity."], "output": "{\"answer\": \"no\"}"}
+{"input": ["wash", "This silly excuse won't wash in traffic court.", "The cat washes several times a day."], "output": "{\"answer\": \"no\"}"}
+{"input": ["mark", "He left an indelible mark on the American theater.", "It was in London that he made his mark."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["analyze", "Analyze your real motives.", "The inspector analyzed the building's soundness."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["chew", "The steak was tough to chew as it had been cooked too long.", "Chew your food and don't swallow it!"], "output": "{\"answer\": \"yes\"}"}
+{"input": ["pocket", "Lydia put the change in her left pocket.", "Lydia pocketed the change."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["section", "There are three synagogues in the Jewish section.", "Sections from the left ventricle showed diseased tissue."], "output": "{\"answer\": \"no\"}"}
+{"input": ["group", "There is a group of houses behind the hill.", "A group of people gathered in front of the Parliament to demonstrate against the Prime Minister's proposals."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["process", "Process iron.", "They processed into the dining room."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["inject", "Inject hydrogen into the balloon.", "Now lie back while we inject you with the anesthetic."], "output": "{\"answer\": \"no\"}"}
+{"input": ["sultriness", "The sultriness of her look was unmistakable.", "The sultriness of lust was in the air."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["percolate", "Percolate coffee.", "I'll percolate some coffee."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["clutch", "To clutch power.", "She clutched her purse."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["mire", "To mire a horse or wagon.", "Our people should not be mired in the past."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["instruction", "Students receive instruction in the arts and sciences.", "Instruction will be provided on how to handle difficult customers."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["afflict", "Afflict with the plague.", "She was afflicted by the death of her parents."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["dish", "They served me a dish of rice.", "We gave them a set of dishes for a wedding present."], "output": "{\"answer\": \"no\"}"}
+{"input": ["opinion", "In my opinion, white chocolate is better than milk chocolate.", "I would like to know your opinions on the new systems."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["peak", "The peak of perfection.", "The view from the peak was magnificent."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["kinship", "Anthropology's kinship with the humanities.", "Felt a deep kinship with the other students."], "output": "{\"answer\": \"no\"}"}
+{"input": ["defense", "They died in the defense of Stalingrad.", "They were developed for the defense program."], "output": "{\"answer\": \"no\"}"}
+{"input": ["middle", "In the middle of the marathon, David collapsed from fatigue.", "Rain during the middle of April."], "output": "{\"answer\": \"no\"}"}
+{"input": ["moderate", "To moderate a synod.", "John moderated the discussion."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["flick", "Flick a piece of paper across the table.", "He flicked his Bic."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["nowhere", "He came out of nowhere.", "They went on a cruise to nowhere."], "output": "{\"answer\": \"no\"}"}
+{"input": ["buzz", "The buzz of excitement was so great that a formal denial was issued.", "The buzz of a bumble bee."], "output": "{\"answer\": \"no\"}"}
+{"input": ["adoxography", "Elizabethan schoolboys were taught adoxography, the art of eruditely praising worthless things.", "Adoxography is particularly useful to lawyers."], "output": "{\"answer\": \"no\"}"}
+{"input": ["excite", "There are drugs designed to excite certain nerves in our body.", "Excite the audience."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["preempt", "Discussion of the emergency situation will preempt the lecture by the professor.", "Live broadcast of the presidential debate preempts the regular news hour."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["winterize", "Winterize cars.", "Winterize your houses."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["conceive", "She can not conceive.", "Assisted procreation can help those trying to conceive."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["militia", "Their troops were untrained militia.", "Congress shall have power to provide for calling forth the militia -- United States Constitution."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["stream", "He felt a stream of air.", "The hose ejected a stream of water."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["amuse", "I watch these movies because they amuse me.", "The clown amused the children."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["militarize", "Militarize the Civil Service.", "Militarize Germany again after the war."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["tear", "He took the manuscript in both hands and gave it a mighty tear.", "There were big tears rolling down Lisa's cheeks."], "output": "{\"answer\": \"no\"}"}
+{"input": ["snatch", "Martin's snatch at the bridle failed and the horse raced away.", "Overheard snatches of their conversation."], "output": "{\"answer\": \"no\"}"}
+{"input": ["activity", "Catalytic activity.", "They avoided all recreational activity."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["aptness", "The aptness of men to follow example.", "The aptness of iron to rust."], "output": "{\"answer\": \"no\"}"}
+{"input": ["toast", "That toaster can make wonderful toasts.", "I ate a piece of toast for breakfast."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["construction", "The engineer marvelled at his construction.", "Construction is underway on the new bridge."], "output": "{\"answer\": \"no\"}"}
+{"input": ["exchange", "They had a bitter exchange.", "An exchange of cattle for grain."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["safety", "He ran to safety.", "The reciprocal of safety is risk."], "output": "{\"answer\": \"no\"}"}
+{"input": ["hold", "Please hold a table at Maxim's.", "Hold a table for us at 7:00."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["criticize", "Those who criticize others often are not perfect, either.", "The paper criticized the new movie."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["fiefdom", "The duke's fiefdom had been greatly expanded as a reward for his dutiful military service on behalf of the king.", "Most of our company's computers are standardized, but the IT director allows the employees in his own little fiefdom to specify their own machines."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["whimsy", "Whimsy can be humorous to someone with time to enjoy it.", "He had a whimsy about flying to the moon."], "output": "{\"answer\": \"no\"}"}
+{"input": ["shadiness", "There's too much shadiness to take good photographs.", "The shadiness of their transactions."], "output": "{\"answer\": \"no\"}"}
+{"input": ["hitter", "A hard hitter.", "Blacksmiths are good hitters."], "output": "{\"answer\": \"no\"}"}
+{"input": ["toss", "I'll toss you for it.", "Steve tossed John the ball."], "output": "{\"answer\": \"no\"}"}
+{"input": ["build", "Build up confidence.", "They had to build up their fortress to protect against attack."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["fold", "Fold up the newspaper.", "Tony folded the flaps open."], "output": "{\"answer\": \"no\"}"}
+{"input": ["system", "That language has a complex system for indicating gender.", "They have to operate under a system they oppose."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["finish", "My horse was several lengths behind at the finish.", "The winner is the team with the most points at the finish."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["shuffle", "You shuffle, I'll deal.", "Shuffle the cards."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["operation", "The plane's operation in high winds.", "The power of its engine determines its operation."], "output": "{\"answer\": \"no\"}"}
+{"input": ["abridge", "The new law might abridge our freedom of expression.", "He had his rights abridged by the crooked sheriff."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["wish", "He got his wish.", "My best wishes."], "output": "{\"answer\": \"no\"}"}
+{"input": ["attack", "He published an unexpected attack on my work.", "An attack of diarrhea."], "output": "{\"answer\": \"no\"}"}
+{"input": ["month", "He was given a month to pay the bill.", "We went on holiday for two months."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["gnash", "To gnash the air in fury.", "To gnash a carpet."], "output": "{\"answer\": \"no\"}"}
+{"input": ["combust", "We combust coal and other fossil fuels.", "The professor combusted when the student didn't know the answer to a very elementary question."], "output": "{\"answer\": \"no\"}"}
+{"input": ["cooperation", "Economic cooperation.", "They agreed on a policy of cooperation."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["portmanteau", "'Brunch' is a well-known portmanteau.", "'Motel' is a portmanteau word made by combining 'motor' and 'hotel'."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["brush", "Brush aside the objections.", "Brush the dust from the jacket."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["association", "You can not be convicted of criminal guilt by association.", "He joined the Modern Language Association."], "output": "{\"answer\": \"no\"}"}
+{"input": ["identity", "A right identity, x * I = x for any x in the structure.", "You can lose your identity when you join the army."], "output": "{\"answer\": \"no\"}"}
+{"input": ["barrage", "A barrage of questions.", "They laid down a barrage in front of the advancing troops."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["attend", "I rarely attend services at my church.", "She attends class regularly."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["log", "They kept a log of all transmission by the radio station.", "An email log."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["afford", "We can't afford to send our children to college.", "Can you afford this car?"], "output": "{\"answer\": \"yes\"}"}
+{"input": ["erase", "The files will erase quickly.", "The chalkboard erased easily."], "output": "{\"answer\": \"no\"}"}
+{"input": ["agency", "She has free agency.", "Central Intelligence Agency."], "output": "{\"answer\": \"no\"}"}
+{"input": ["cocoon", "She loves to stay at home and cocoon.", "Families cocoon around the T.V. set most evenings."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["rehearsal", "A rehearsal will be held the day before the wedding.", "He missed too many rehearsals."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["affect", "Will the new rules affect me?", "The medicine affects my heart rate."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["sign", "Please sign on the dotted line.", "Please sign here."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["string", "A string of islands.", "The strings played superlatively well."], "output": "{\"answer\": \"no\"}"}
+{"input": ["upstage", "She only wore that dress to upstage everyone.", "When the dog entered the stage, he upstaged the actress."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["wateriness", "The wateriness of his blood.", "The haziness and wateriness of his disquisitions."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["drawing", "The drawing of water from the well.", "He did complicated pen-and-ink drawings like medieval miniatures."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["mixture", "He drank a mixture of beer and lemonade.", "The mixture of sulphuric acid and water produces heat."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["detention", "His detention was politically motivated.", "The detention of tardy pupils."], "output": "{\"answer\": \"no\"}"}
+{"input": ["collapse", "The collapse of the old star under its own gravity.", "The roof is in danger of collapse."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["handle", "Don't handle the merchandise.", "About his altar, handling holy things -- John Milton."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["state", "State your name.", "State your opinion."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["ease", "Ease the pain in your legs.", "The pain eased overnight."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["influence", "He was a bad influence on the children.", "Used her parents' influence to get the job."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["compress", "The force required to compress a spring varies linearly with the displacement.", "She compressed her lips."], "output": "{\"answer\": \"no\"}"}
+{"input": ["herald", "Rouge Dragon is a herald at the College of Arms.", "The chieftain had a herald who announced his arrival with a trumpet."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["appreciate", "I appreciate your efforts.", "The yen appreciated again!"], "output": "{\"answer\": \"no\"}"}
+{"input": ["return", "Return her love.", "Return a compliment."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["prepare", "Prepare for war.", "We prepared a fish for dinner."], "output": "{\"answer\": \"no\"}"}
+{"input": ["hit", "Hit the bottle.", "He tries to hit on women in bars."], "output": "{\"answer\": \"no\"}"}
+{"input": ["want", "Want the strength to go on living.", "Flood victims wanting food and shelter."], "output": "{\"answer\": \"no\"}"}
+{"input": ["holiday", "Today is a Wiccan holiday!", "No mail is delivered on federal holidays."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["ball", "The ball at the base of the thumb.", "He stood on the balls of his feet."], "output": "{\"answer\": \"no\"}"}
+{"input": ["portfolio", "He remembered her because she was carrying a large portfolio.", "He holds the portfolio for foreign affairs."], "output": "{\"answer\": \"no\"}"}
+{"input": ["chore", "Washing dishes is a chore, but we can not just stop eating.", "The farmer's morning chores."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["collapse", "Collapse the music stand.", "The school system is collapsing."], "output": "{\"answer\": \"no\"}"}
+{"input": ["middle", "I woke up in the middle of the night.", "A whole is that which has beginning, middle, and end -- Aristotle."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["activity", "The level of activity declines with age.", "His sphere of activity."], "output": "{\"answer\": \"no\"}"}
+{"input": ["street", "Be careful crossing the street.", "The whole street protested the absence of lights."], "output": "{\"answer\": \"no\"}"}
+{"input": ["footprint", "The computer had a desktop footprint of 10 by 16 inches.", "The footprints of an earlier civilization."], "output": "{\"answer\": \"no\"}"}
+{"input": ["seize", "Birds of prey often seize small mammals.", "The invaders seized the land and property of the inhabitants."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["profession", "A profession of disagreement.", "My father was a barrister by profession."], "output": "{\"answer\": \"no\"}"}
+{"input": ["growth", "A growth of hair.", "The growth of culture."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["transplant", "These delicate plants do not transplant easily.", "Transplant the young rice plants."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["demon", "She's a demon at math.", "He worked like a demon to finish the job on time."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["mainstream", "His thinking was in the American mainstream.", "His ideas were well outside the mainstream, but he presented them intelligently, and we were impressed if not convinced."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["precaution", "He put an ice pack on the injury as a precaution.", "To take precautions against risks of accident."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["meeting", "There was no meeting of minds.", "The meeting elected a chairperson."], "output": "{\"answer\": \"no\"}"}
+{"input": ["right", "Take a right at the corner.", "Film rights."], "output": "{\"answer\": \"no\"}"}
+{"input": ["reflect", "People do that sort of thing every day, without ever stopping to reflect on the consequences.", "The teacher's ability reflects well on the school."], "output": "{\"answer\": \"no\"}"}
+{"input": ["submerge", "Submerge your head completely.", "The submarine submerged in the water."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["scrub", "Surgeons must scrub prior to an operation.", "She scrubbed his back."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["promise", "I promise you my best effort.", "I promised somebody my time."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["mechanism", "A mechanism of social control.", "Mechanisms of communication."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["undo", "Undo the shoelace.", "A single mistake undid the President and he had to resign."], "output": "{\"answer\": \"no\"}"}
+{"input": ["spade", "She led a low spade.", "Spades were trumps."], "output": "{\"answer\": \"no\"}"}
+{"input": ["fuzz", "He tried to clear his head of the whisky fuzz.", "Peach fuzz."], "output": "{\"answer\": \"no\"}"}
+{"input": ["probity", "In a world where financial probity may not be widespread.", "He enjoys an exaggerated reputation for probity."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["protest", "The senator rose to register his protest.", "They finished the game under protest to the league president."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["shock", "To shock rye.", "Shock grain."], "output": "{\"answer\": \"no\"}"}
+{"input": ["sign", "Sign an intersection.", "This road has been signed."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["embodiment", "The embodiment of hope.", "A circle was the embodiment of his concept of life."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["exile", "He lived in exile.", "She lived as an exile."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["glimpse", "From the window he could catch a glimpse of the lake.", "He caught only a glimpse of the professor's meaning."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["abatement", "The abatement of a nuisance is the suppression thereof.", "Laws enforcing noise abatement."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["near", "They are nearing the coast.", "The ship nears the land."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["aim", "She wanted to aim a pun.", "He aimed his fists towards his opponent's face."], "output": "{\"answer\": \"no\"}"}
+{"input": ["surface", "It was not what it appeared to be on the surface.", "The cloth had a pattern of red dots on a white surface."], "output": "{\"answer\": \"no\"}"}
+{"input": ["boot", "Boot your computer.", "When arriving at the office, first thing I do is booting my machine."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["gem", "He had the gem set in a ring for his wife.", "She's an absolute gem."], "output": "{\"answer\": \"no\"}"}
+{"input": ["help", "There's no help for it.", "I need some help with my homework."], "output": "{\"answer\": \"no\"}"}
+{"input": ["toilet", "He made his morning toilet and went to breakfast.", "Pensions are in the toilet."], "output": "{\"answer\": \"no\"}"}
+{"input": ["kill", "Kill the engine.", "He killed the ball."], "output": "{\"answer\": \"no\"}"}
+{"input": ["longevity", "Had unusual longevity in the company.", "Her longevity as a star."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["remove", "Remove a wrapper.", "The President removed many postmasters."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["strip", "He welded together some pieces of strip.", "She did a strip right in front of everyone."], "output": "{\"answer\": \"no\"}"}
+{"input": ["force", "A force out was recorded on the scorecard.", "A public force is necessary to give security to the rights of citizens."], "output": "{\"answer\": \"no\"}"}
+{"input": ["manipulation", "His manipulation of his friends was scandalous.", "He found that the new manager was known for his Machiavellian manipulations in his last two positions."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["piano", "Most of the works by Frédéric Chopin are for the piano.", "He can play \"Happy Birthday\" on the piano."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["operation", "They organized a rescue operation.", "Consolidate the companies various operations."], "output": "{\"answer\": \"no\"}"}
+{"input": ["preserve", "Preserve the peace in the family.", "To preserve silence."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["peradventure", "This proves beyond peradventure that he is innocent.", "Proved beyond peradventure. -- South."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["patronage", "The restaurant had an upper class patronage.", "Even before noon there was a considerable patronage."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["circulate", "Circulate a rumor.", "This letter is being circulated among the faculty."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["muscle", "The senators used their muscle to get the party leader to resign.", "Muscle consists largely of actin and myosin filaments."], "output": "{\"answer\": \"no\"}"}
+{"input": ["direct", "Direct your anger towards others, not towards yourself.", "He directed all his energies into his dissertation."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["plant", "Plant bugs in the dissident's apartment.", "Plant a spy in Moscow."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["conclusion", "The conclusion of the peace treaty.", "The conclusion of a business deal."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["snap", "The infielder's snap and throw was a single motion.", "Children can manage snaps better than buttons."], "output": "{\"answer\": \"no\"}"}
+{"input": ["terror", "He used terror to make them confess.", "He was the terror of the neighborhood."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["continent", "Pioneers had to cross the continent on foot.", "There are seven continents."], "output": "{\"answer\": \"no\"}"}
+{"input": ["motivation", "We did not understand his motivation.", "His motivation was at a high level."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["beat", "In the old days a policeman walked a beat and knew all his people by name.", "A beat of the heart."], "output": "{\"answer\": \"no\"}"}
+{"input": ["catch", "The catch was only 10 fish.", "He shared his catch with the others."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["post", "Post a warning at the dump.", "The newspaper posted him in Timbuktu."], "output": "{\"answer\": \"no\"}"}
+{"input": ["dollar", "He worships the almighty dollar.", "The dollar coin has never been popular in the United States."], "output": "{\"answer\": \"no\"}"}
+{"input": ["breast", "He beat his breast in anger.", "The robin has a red breast."], "output": "{\"answer\": \"no\"}"}
+{"input": ["relieve", "This shall not relieve either Party of any obligations.", "The thief relieved me of $100."], "output": "{\"answer\": \"no\"}"}
+{"input": ["conserve", "Conserve your energy for the ascent to the summit.", "Mom always conserved the strawberries we grew in the backyard."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["closure", "They regretted the closure of the day care center.", "He needed to grieve before he could achieve a sense of closure."], "output": "{\"answer\": \"no\"}"}
+{"input": ["engrave", "Engrave a letter.", "Engrave a pen."], "output": "{\"answer\": \"no\"}"}
+{"input": ["vision", "The runners emerged from the trees into his clear vision.", "He had a vision of the Virgin Mary."], "output": "{\"answer\": \"no\"}"}
+{"input": ["scraping", "All that bowing and scraping did not impress him.", "They collected blood scrapings for analysis."], "output": "{\"answer\": \"no\"}"}
+{"input": ["brother", "I would like to thank the brother who just spoke.", "None of his brothers would betray him."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["whitewash", "Let's not whitewash the crimes of Stalin.", "In his sermon, the minister didn't try to whitewash over the sins of his church."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["deal", "A deal of trouble.", "He made a deal with the devil."], "output": "{\"answer\": \"no\"}"}
+{"input": ["develop", "Children must develop a sense of right and wrong.", "We have developed a new theory of evolution."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["dexterity", "She twirled the knife through her fingers with impressive dexterity.", "Playing computer games can improve your manual dexterity."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["potluck", "Here's a good potluck of beans and stew.", "Having arrived unannounced we had to take potluck."], "output": "{\"answer\": \"no\"}"}
+{"input": ["apology", "It was an apology for a meal.", "The Apology of Socrates."], "output": "{\"answer\": \"no\"}"}
+{"input": ["straggle", "A straggle of followers.", "A straggle of outbuildings."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["shot", "The nurse gave him a flu shot.", "He tried to get unposed shots of his friends."], "output": "{\"answer\": \"no\"}"}
+{"input": ["command", "To command an army or a ship.", "Command the military forces."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["refrigerate", "Please refrigerate your uncooked meats at or below 40 Fahrenheit.", "Refrigerate this medicine."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["care", "He handled the vase with care.", "Care should be taken when holding babies."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["twist", "Don't twist my words.", "Twist the dough into a braid."], "output": "{\"answer\": \"no\"}"}
+{"input": ["setting", "A place setting of sterling flatware.", "He changed the setting on the thermostat."], "output": "{\"answer\": \"no\"}"}
+{"input": ["spread", "The infection spread.", "Optimism spread among the population."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["sleep", "We sleep five people in each room.", "This tent sleeps six people."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["prohibition", "They were restrained by a prohibition in their charter.", "In 1920 the 18th amendment to the Constitution established prohibition in the US."], "output": "{\"answer\": \"no\"}"}
+{"input": ["stay", "Wear gloves so your hands stay warm.", "Stay with me, please."], "output": "{\"answer\": \"no\"}"}
+{"input": ["treatment", "His treatment of the race question is badly biased.", "His treatment of space borrows from Italian architecture."], "output": "{\"answer\": \"no\"}"}
+{"input": ["break", "Make a break for it.", "He finally got his big break."], "output": "{\"answer\": \"no\"}"}
+{"input": ["life", "Real life.", "It was a heavy play and the actors tried in vain to give life to it."], "output": "{\"answer\": \"no\"}"}
+{"input": ["minute", "Wait a minute, I'm not ready yet!", "It only takes a minute."], "output": "{\"answer\": \"no\"}"}
+{"input": ["exhibition", "There was an art exhibition on in the town hall.", "A boat exhibition."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["scrap", "The unhappy couple got into a terrible scrap.", "That car isn't good for anything but scrap."], "output": "{\"answer\": \"no\"}"}
+{"input": ["destroy", "Hooligans destroy unprovoked.", "The fire destroyed the house."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["cleat", "Cleat running shoes for better traction.", "Cleat a line."], "output": "{\"answer\": \"no\"}"}
+{"input": ["pinnacle", "Pinnacle a pediment.", "He did not want to be pinnacled."], "output": "{\"answer\": \"no\"}"}
+{"input": ["heritage", "The world's heritage of knowledge.", "A heritage of freedom."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["wail", "Wail in self-pity.", "She wailed with pain."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["knuckleball", "Even the pitcher doesn't know where his knuckleball is going.", "Boston Red Sox pitcher Tim Wakefield is best known for his use of the knuckleball."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["book", "I am reading a good book on economics.", "He was frustrated because he couldn't find anything about dinosaurs in the book."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["roll", "The roll of a ball.", "Look at the roll of the waves."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["piece", "The children acted out a comic piece to amuse the guests.", "He sacrificed a piece to get a strategic advantage."], "output": "{\"answer\": \"no\"}"}
+{"input": ["share", "Our children share a love of music.", "The two countries share a long border."], "output": "{\"answer\": \"no\"}"}
+{"input": ["bondage", "He sought release from his bondage to Satan.", "A self freed from the bondage of time."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["pierce", "To pierce a mystery.", "The path pierced the jungle."], "output": "{\"answer\": \"no\"}"}
+{"input": ["grip", "In Britain they call a bobby pin a grip.", "They kept a firm grip on the two top priorities."], "output": "{\"answer\": \"no\"}"}
+{"input": ["shape", "Geometry is the mathematical science of shape.", "He could barely make out their shapes."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["twilight", "I could just make out her face in the twilight.", "He loved the twilight."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["sugar", "Sugar your tea.", "John heavily sugars his coffee."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["role", "My neighbor was the lead role in last year's village play.", "Play its role."], "output": "{\"answer\": \"no\"}"}
+{"input": ["proliferate", "We must not proliferate nuclear arms.", "The flowers proliferated rapidly all spring."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["trip", "A pedestrian was able to trip the burglar as he was running away.", "The questions on the test tripped him up."], "output": "{\"answer\": \"no\"}"}
+{"input": ["cloister", "Cloister the garden.", "She cloistered herself in the office."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["expect", "I expect to receive wages.", "We were expecting a visit from our relatives."], "output": "{\"answer\": \"no\"}"}
+{"input": ["flowage", "Rock fracture and rock flowage are different types of geological deformation.", "Many campsites were located near the flowage."], "output": "{\"answer\": \"no\"}"}
+{"input": ["follow", "We must follow closely the economic development is Cuba.", "It follows that your assertion is false."], "output": "{\"answer\": \"no\"}"}
+{"input": ["property", "He is a man of property.", "That hat is my property."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["noise", "He knew that it was trash day, when the garbage collectors made all the noise.", "They heard indistinct noises of people talking."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["policy", "You should have read the small print on your policy.", "It was a policy of retribution."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["pull", "A zipper pull.", "He grabbed the pull and opened the drawer."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["affair", "It is none of your affair.", "He used a hook-shaped affair with a long handle to unlock the car."], "output": "{\"answer\": \"no\"}"}
+{"input": ["pressure", "He used pressure to stop the bleeding.", "The sensitivity of his skin to pressure and temperature was normal."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["reality", "The reality of his situation slowly dawned on him.", "The reality of the crash scene on TV dawned upon him only when he saw the victim was no actor but his friend."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["party", "The party of the first part.", "He planned a party to celebrate Bastille Day."], "output": "{\"answer\": \"no\"}"}
+{"input": ["result", "Result in tragedy.", "This measure will result in good or in evil."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["peg", "Let's peg the rug to the floor.", "Peg a tent."], "output": "{\"answer\": \"no\"}"}
+{"input": ["assumption", "The Nazi assumption of power in 1934.", "He acquired all the company's assets for ten million dollars and the assumption of the company's debts."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["fight", "A fight broke out at the hockey game.", "There were fights in the streets."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["hook", "Hook the ball.", "His opponent hooked him badly."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["flood", "Flood the market with tennis shoes.", "The swollen river flooded the village."], "output": "{\"answer\": \"no\"}"}
+{"input": ["intellect", "He has a keen intellect.", "Some of the world's leading intellects were meeting there."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["word", "We had a word or two about it.", "There was then a long discussion of whether to capitalize words like \"east\"."], "output": "{\"answer\": \"no\"}"}
+{"input": ["restraint", "The room was simply decorated with great restraint.", "The car did not have proper restraints fitted."], "output": "{\"answer\": \"no\"}"}
+{"input": ["go", "It's my go.", "I'll give it a go."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["crush", "To crush grapes.", "The car crushed the toy."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["cushion", "To cushion a blow.", "Cushion the blow."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["scavenge", "Hyenas scavenge.", "She scavenged the garbage cans for food."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["recreation", "For recreation he wrote poetry and solved crossword puzzles.", "Drug abuse is often regarded as a form of recreation."], "output": "{\"answer\": \"no\"}"}
+{"input": ["question", "His claim to the property has come under question.", "He obeyed without question."], "output": "{\"answer\": \"no\"}"}
+{"input": ["swear", "I swear by my grandmother's recipes.", "Before God I swear I am innocent."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["gargle", "Gargle with this liquid.", "Every morning he gargled a little cheap Scotch."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["heel", "Heel a golf ball.", "Heel that dance."], "output": "{\"answer\": \"no\"}"}
+{"input": ["fuss", "Don't fuss too much over the grandchildren -- they are quite big now.", "She fusses over her husband."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["nut", "He was driving his car like a nut.", "I kicked him in the nuts."], "output": "{\"answer\": \"no\"}"}
+{"input": ["work", "He was indebted to the pioneering work of John Dewey.", "The work of an active imagination."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["sense", "A keen musical sense.", "A good sense of timing."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["wish", "It was his last wish.", "They should respect the wishes of the people."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["attitude", "The airliner had to land with a nose-up attitude after the incident.", "The actor struck just the right attitude."], "output": "{\"answer\": \"no\"}"}
+{"input": ["steam", "Just steam the vegetables.", "Her indifference to his amorous advances really steamed the young man."], "output": "{\"answer\": \"no\"}"}
+{"input": ["dissipation", "The dissipation of the mist.", "Mindless dissipation of natural resources."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["path", "The path of virtue.", "Our paths in life led us apart."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["drought", "When England defeated Pakistan it ended a ten-year drought.", "Farmers most affected by the drought hope that there may yet be sufficient rain early in the growing season."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["move", "It's your move! Roll the dice!", "If you roll a six, you can make two moves."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["officer", "He is an officer of the court.", "The club elected its officers for the coming year."], "output": "{\"answer\": \"no\"}"}
+{"input": ["deed", "He signed the deed.", "I inherited the deed to the house."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["transfer", "The transfer of the music from record to tape suppressed much of the background noise.", "The best student was a transfer from LSU."], "output": "{\"answer\": \"no\"}"}
+{"input": ["fatigue", "Growing fatigue was apparent from the decline in the execution of their athletic skills.", "He was hospitalized for extreme fatigue."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["belabor", "Belabor the obvious.", "She was belabored by her fellow students."], "output": "{\"answer\": \"no\"}"}
+{"input": ["torrent", "The houses were swept away in the torrent.", "They endured a torrent of inquiries."], "output": "{\"answer\": \"no\"}"}
+{"input": ["work", "The symphony was hailed as an ingenious work.", "Erosion is the work of wind or water over time."], "output": "{\"answer\": \"no\"}"}
+{"input": ["member", "Canada is a member of the United Nations.", "The library was a member of the interlibrary loan association."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["rise", "They asked for a 10% rise in rates.", "The rising of the Holy Ghost."], "output": "{\"answer\": \"no\"}"}
+{"input": ["recognition", "Territorial disputes were resolved in Guatemala's recognition of Belize in 1991.", "The partners were delighted with the recognition of their work."], "output": "{\"answer\": \"no\"}"}
+{"input": ["decussate", "The fibers decussate.", "This nerve decussates the other."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["succession", "A succession of failures.", "A succession of stalls offering soft drinks."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["go", "How did your interview go?", "She was going that way anyway, so she offered to show him where it was."], "output": "{\"answer\": \"no\"}"}
+{"input": ["spin", "The campaign put a favorable spin on the story.", "The skaters demonstrated their spins."], "output": "{\"answer\": \"no\"}"}
+{"input": ["body", "The body of the car was badly rusted.", "Administrative body."], "output": "{\"answer\": \"no\"}"}
+{"input": ["sort", "She served a creamy sort of dessert thing.", "She wore a sort of magenta dress."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["love", "I love French food.", "I loved to write."], "output": "{\"answer\": \"no\"}"}
+{"input": ["grunt", "He went from grunt to chairman in six years.", "Infantrymen in Vietnam were called grunts."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["crash", "You can crash here, though it's not very comfortable.", "The terrorists crashed the plane into the palace."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["create", "Create a poem.", "Create one a peer."], "output": "{\"answer\": \"no\"}"}
+{"input": ["distribution", "Worldwide in distribution.", "The distribution of nerve fibers."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["canon", "The neoclassical canon.", "Canons of polite society."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["wait", "She used to wait down at the Dew Drop Inn.", "Wait here until your car arrives."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["switch", "Switch to a different brand of beer.", "I want to switch this red dress for a green one."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["mince", "A mince of mushrooms.", "Mince tastes really good fried in a pan with some chopped onion and tomato."], "output": "{\"answer\": \"no\"}"}
+{"input": ["replicate", "On entering a host cell, a virus will start to replicate.", "Replicate the cell."], "output": "{\"answer\": \"no\"}"}
+{"input": ["show", "A show of impatience.", "A good show of looking interested."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["map", "Map the genes.", "Map the surface of Venus."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["bracket", "Please bracket this remark.", "Bracket bookshelves."], "output": "{\"answer\": \"no\"}"}
+{"input": ["applaud", "I applaud your efforts.", "Although we don't like your methods, we applaud your motives."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["plume", "A plume of smoke.", "Grass with large plumes."], "output": "{\"answer\": \"no\"}"}
+{"input": ["blend", "'Smog' is a blend of 'smoke' and 'fog'.", "Their music has been described as a blend of jazz and heavy metal."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["bull", "He was a bull of a man.", "He made a bad bull of the assignment."], "output": "{\"answer\": \"no\"}"}
+{"input": ["spend", "Spend money.", "He spends far more on gambling than he does on living proper."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["usage", "English usage.", "A usage borrowed from French."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["installation", "He gave a speech as part of his installation into the hall of fame.", "The telephone installation took only a few minutes."], "output": "{\"answer\": \"no\"}"}
+{"input": ["pound", "The locks pound the water of the canal.", "Pound the roots with a heavy flat stone."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["donate", "Donate money to the orphanage.", "I donated blood to the Red Cross for the victims of the earthquake."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["hew", "Hew out a path in the rock.", "One of the most widely used typefaces in the world was hewn by the English printer and typographer John Baskerville."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["breed", "Google represents a new breed of entrepreneurs.", "A breed of tulip."], "output": "{\"answer\": \"no\"}"}
+{"input": ["risk", "I can not risk smoking.", "Why risk your life?"], "output": "{\"answer\": \"yes\"}"}
+{"input": ["sit", "When does the court of law sit?", "In what city is the circuit court sitting for this session."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["review", "Let's review your situation.", "Before I tackle the question directly, I must briefly review historical approaches to the problem."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["jockey", "He's a truck jockey.", "A disc jockey."], "output": "{\"answer\": \"no\"}"}
+{"input": ["body", "The whole body filed out of the auditorium.", "The student body."], "output": "{\"answer\": \"no\"}"}
+{"input": ["stabilize", "The country will stabilize after the next election ends.", "The economy stabilized."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["lead", "A good lead for a job.", "Joe is a great addition to our sales team, he has numerous leads in the paper industry."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["base", "He told the painter that he wanted a yellow base with just a hint of green.", "Bases include oxides and hydroxides of metals and ammonia."], "output": "{\"answer\": \"no\"}"}
+{"input": ["inadequacy", "Juvenile offenses often reflect an inadequacy in the parents.", "The inadequacy of unemployment benefits."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["upgrade", "The power plant received a new upgrade.", "With my phone company, I get a free upgrade every twelve months if I keep topping up 10 pounds a month."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["criticism", "The senator received severe criticism from his opponent.", "The politician received a lot of public criticism for his controversial stance on the issue."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["bastion", "The last bastion of communism.", "A bastion against corruption."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["pity", "It's a pity he couldn't do it.", "The blind are too often objects of pity."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["embellish", "To embellish a story, the truth.", "The old book cover was embellished with golden letters."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["tilt", "The court's tilt toward conservative rulings.", "The tower had a pronounced tilt."], "output": "{\"answer\": \"no\"}"}
+{"input": ["facility", "The assembly plant is an enormous facility.", "Educational facilities."], "output": "{\"answer\": \"no\"}"}
+{"input": ["hour", "We live an hour from the airport.", "It was their finest hour."], "output": "{\"answer\": \"no\"}"}
+{"input": ["capital", "The drug capital of Columbia.", "The crime capital of Italy."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["fire", "Clinton directed his fire at the Republican Party.", "There was a fire at the school last night and the whole place burned down."], "output": "{\"answer\": \"no\"}"}
+{"input": ["torture", "In every war there are acts of torture that cause the world to shudder.", "Using large dogs to attack bound, hand-cuffed prisoners is clearly torture."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["passage", "The outward passage took 10 days.", "She struggled to play the difficult passages."], "output": "{\"answer\": \"no\"}"}
+{"input": ["rise", "Rise to the occasion.", "Her spirits rose when she heard the good news."], "output": "{\"answer\": \"no\"}"}
+{"input": ["chisel", "Chisel the marble.", "Who's chiseling on the side?"], "output": "{\"answer\": \"yes\"}"}
+{"input": ["bane", "The bane of my existence.", "The bane of my life."], "output": "{\"answer\": \"yes\"}"}
+{"input": ["hang", "Let's hang this cute animal in the nursery.", "Hang wallpaper."], "output": "{\"answer\": \"no\"}"}
+{"input": ["breed", "He experimented on a particular breed of white rats.", "A breed of animal."], "output": "{\"answer\": \"yes\"}"}

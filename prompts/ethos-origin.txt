@@ -1,0 +1,3 @@
+Check whether the given <text> contains forms of offensive speech, or is otherwise normal speech. Answer with "offensive" or "normal". 
+Please answer with this JSON format: {{"answer": "your_answer"}} 
+<text>: {text}
