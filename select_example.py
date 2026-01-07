@@ -28,3 +28,13 @@ def filter_train(input_map, output_map, args):
         dic["output"] = loaded_data[output_map]
         new_dat.append(dic)
     return new_dat
+
+def filter_test(input_map, output_map, args):
+    loaded_data = load_data(args, "validation")
+    new_dat = []
+    for r in loaded_data:
+        dic = {}
+        dic["inputs"] = [loaded_data[k] for k in input_map]
+        dic["output"] = loaded_data[output_map]
+        new_dat.append(dic)
+    return new_dat

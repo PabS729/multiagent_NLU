@@ -98,12 +98,12 @@ def run_multiagent_system_train(dataset_meta, task_meta, prompt, args):
     if args.sum_model_name == "OSS":
         sum_model = remote_LLM('http://10.244.50.59:1234/model', args.model_name)
     else:
-        sum_model = HF_LLM(args.model_name)
+        sum_model = exe_model
     
     if args.ver_model_name == "OSS":
         ver_model = remote_LLM('http://10.244.50.59:1234/model', args.model_name)
     else:
-        ver_model = HF_LLM(args.model_name)
+        ver_model = exe_model
 
     
     with open("prompts/meta_prompt.txt") as f:
@@ -124,7 +124,7 @@ def run_multiagent_system_train(dataset_meta, task_meta, prompt, args):
     output_key = dataset_meta["output"]
     output_map = dataset_meta["output_map"]
 
-    loaded_data = load_data(name, "train")
+    loaded_data = load_data(args, "train")
 
 
     #take some part of the data for training, using some data-filtering mechanism. 
@@ -236,7 +236,39 @@ def run_multiagent_system_train(dataset_meta, task_meta, prompt, args):
             retries = 0
 
 
-def run_multiagent_system_test(dataset_name, model_name, data, args):
+def run_multiagent_system_test(prompt_exec, dataset_meta, model_name, patterns, data, args):
+    loaded_data = load_data(args, "validation")
+
+    if args.exe_model_name == "OSS":
+        exe_model = remote_LLM('http://10.244.50.59:1234/model', args.model_name)
+    else:
+        exe_model = HF_LLM(args.model_name)
+
+    input_map = dataset_meta["input_format"]
+    output_key = dataset_meta["output"]
+
+    processed_data = filter_test(input_map, output_key, args)
+
+
+
+    #select patterns TODO
+
+    #load patterns first, then choose from them using another LLM
+    
+
+
+    #predict using selected patterns
+
+    for k in processed_data:
+        inputs = k["inputs"]
+        inputs.append(patterns)
+        prompt_exec_form = format_prompt(prompt_exec, input_map, inputs)
+
+
+
+
+    for j in loaded
+
 
     return
 

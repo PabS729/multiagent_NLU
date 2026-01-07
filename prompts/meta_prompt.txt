@@ -30,7 +30,7 @@ You should give a prompt that is clear and concise, with the key features needed
 You should require the model to associate each label with a word or clause that captures the characteristic of the entity instance in the given sentence. The clause should have less than three words.
 You should NOT provide any specific details regarding the sentence and label for the given <Input_desc>, however, you should ALWAYS consider the type of tasks associated with the sentence/label pair. 
 Your prompt should have less than 100 words,  with key-value pairs following this format: key: {placeholder}, each key-value pair starts in a new line. Each key should correspond with the strings in <Input_desc>. Please also include "label" with placeholder label.
-Your prompt should specify the expected output from LLM in JSON with the following format: {{key: value}}. The value MUST NOT be actual labels and must be descriptions, while key refers to word or clauses from the passage in <Input_desc>.
+Your prompt should specify the expected output from LLM in JSON with the following format: {{key: value}}. The value must be descriptions regarding the inputs in <Input_desc>, while key refers to the possible label category from the task description and <Output_format>
 </summarization>
 
 <evaluation>
