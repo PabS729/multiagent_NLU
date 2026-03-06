@@ -28,8 +28,8 @@ The NLU tasks are as follows, presented in data_format.jsonl
 | **Sentence Completion** |  |  |  |
 | Dream (from github) | question, choice | answer | train, test |
 | **NER** |  |  |  |
-| conll 03 | done already |  | train, test |
-| mrc-05 | downloaded |  | train, test |
+| conll 03 | text |  | train, test |
+| mrc-05 | text |  | train, test |
 
 Additional tasks of the SuperGLUE are presented in dataset_meta.jsonl
 
