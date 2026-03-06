@@ -30,13 +30,6 @@ The NLU tasks are as follows, presented in data_format.jsonl
 | **NER** |  |  |  |
 | conll 03 | done already |  | train, test |
 | mrc-05 | downloaded |  | train, test |
-| **RE** |  |  |  |
-| ace05-rel |  |  |  |
-| scierc |  |  |  |
-| nyt-multi |  |  |  |
-| **event extraction** |  |  |  |
-| casie |  |  |  |
-| ace05-event |  |  |  |
 
 Additional tasks of the SuperGLUE are presented in dataset_meta.jsonl
 
