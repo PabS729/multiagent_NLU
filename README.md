@@ -50,4 +50,30 @@ Additional tasks of the SuperGLUE are presented in dataset_meta.jsonl
 ## How it works
 1. Preprocess required data with preprocess_data_split.py
 2. Generate predictions with run_test_all.py using the metadata files shown above. 
-3. Evaluate with eval_all.py. Huggingface will automatically apply required metrics for the specified dataset (F1-score, Accuracy, etc.). 
+3. Evaluate with eval_all.py. Huggingface will automatically apply required metrics for the specified dataset (F1-score, Accuracy, etc.).
+
+## File Structure
+project-root/
+│
+├── data/ # Raw or intermediate datasets used for experiments
+├── outputs/ # Model outputs, evaluation results, or experiment logs
+├── prompts/ # Prompt templates used by the LLM agents
+│
+├── IMDB_Dataset.csv # Example dataset used for evaluation/testing
+│
+├── LLM_all.py # Central interface for interacting with different LLM backends
+├── agent_prompt.py # Prompt construction utilities for the agent
+├── agent_system.py # Core agent logic and orchestration
+│
+├── data_format.jsonl # Dataset schema / standardized input format
+├── dataset_meta.jsonl # Metadata describing datasets
+│
+├── demo_preprocess_data.py # Example script demonstrating dataset preprocessing
+│
+├── en_dataset_with_stop_words.csv # Preprocessed English dataset variant
+│
+├── eval_all.py # Main script to run evaluation across tasks
+│
+├── preprocess_data_split.py # Dataset splitting and preprocessing utilities
+│
+├── run_test_all.py # Generating predictions for LLMs for all datasets
