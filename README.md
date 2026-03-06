@@ -50,4 +50,4 @@ Additional tasks of the SuperGLUE are presented in dataset_meta.jsonl
 ## How it works
 1. Preprocess required data with preprocess_data_split.py
 2. Generate predictions with run_test_all.py using the metadata files shown above. 
-3. Evaluate with eval_all.py. All evaluation metrics are specified in the metadata. 
+3. Evaluate with eval_all.py. Huggingface will automatically apply required metrics for the specified dataset (F1-score, Accuracy, etc.). 
