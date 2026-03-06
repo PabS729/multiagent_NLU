@@ -2,7 +2,7 @@
 
 ## About
 
-This is an automatic evaluation framework for Natural language understanding (NLU) tasks. The repository now features default prompts for each NLU task, as well as customizable scripts for generating outputs and evaluation. It is built with the Huggingface library.  
+This is an automatic evaluation framework for Natural language understanding (NLU) tasks. The repository now features default prompts for each NLU task, as well as customizable scripts for LLM prediction generation and evaluation. It is built with the Huggingface library.  
 
 The NLU tasks are as follows, presented in data_format.jsonl
 
