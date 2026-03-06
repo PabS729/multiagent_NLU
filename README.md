@@ -50,4 +50,4 @@ Additional tasks of the SuperGLUE are presented in dataset_meta.jsonl
 ## How it works
 
 1. Generate predictions with run_test_all.py using the metadata files shown above. 
-2. Evaluate with eval_all.py. Each evaluation metrics are specified in the metadata. 
+2. Evaluate with eval_all.py. All evaluation metrics are specified in the metadata. 
